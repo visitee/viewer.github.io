@@ -1,0 +1,5155 @@
+[
+    {
+        "id": "BGLL",
+        "group": [
+            {
+                "CCRMC": 60
+            }
+        ]
+    },
+    {
+        "id": "BRBI",
+        "group": [
+            {
+                "CCRMC": 300,
+                "HUMC": 150,
+                "PHHS": 151
+            }
+        ]
+    },
+    {
+        "id": "Barbier",
+        "group": [
+            {
+                "CCRMC": 60
+            }
+        ]
+    },
+    {
+        "id": "MABR",
+        "group": [
+            {
+                "CCRMC": 120,
+                "NATV": 170,
+                "SJGH": 180
+            }
+        ]
+    },
+    {
+        "id": "PRON",
+        "group": [
+            {
+                "PHHS": 540
+            }
+        ]
+    },
+    {
+        "id": "la601",
+        "group": [
+            {
+                "CCRMC": 72
+            }
+        ]
+    },
+    {
+        "id": "lw01",
+        "group": [
+            {
+                "CCRMC": 1940,
+                "CHAM": 76,
+                "CVMC": 31,
+                "FCMC": 190,
+                "FVHS": 48,
+                "HCLite": 2,
+                "HUMC": 463,
+                "KDHCD": 62,
+                "LACUSC": 164,
+                "OVMC": 403,
+                "PHHS": 811,
+                "RCRMC": 802,
+                "Rancho": 214,
+                "SJGH": 9,
+                "SVDH": 55,
+                "UNMH": 756
+            }
+        ]
+    },
+    {
+        "id": "lw02",
+        "group": [
+            {
+                "CCRMC": 2661,
+                "CHAM": 11,
+                "CVMC": 4,
+                "FCMC": 309,
+                "FVHS": 151,
+                "HUMC": 280,
+                "KDHCD": 13,
+                "LACUSC": 74,
+                "OVMC": 322,
+                "PHHS": 601,
+                "RCRMC": 1391,
+                "Rancho": 253,
+                "SJGH": 111,
+                "SVDH": 54,
+                "UNMH": 738
+            }
+        ]
+    },
+    {
+        "id": "lw03",
+        "group": [
+            {
+                "CCRMC": 2615,
+                "CHAM": 54,
+                "CVMC": 106,
+                "FCHP": 12,
+                "FCMC": 287,
+                "FVHS": 340,
+                "HCLite": 41,
+                "HUMC": 363,
+                "KDHCD": 114,
+                "LACUSC": 206,
+                "OVMC": 302,
+                "PHHS": 516,
+                "RCRMC": 1197,
+                "Rancho": 138,
+                "SJGH": 82,
+                "SVDH": 33,
+                "UNMH": 959
+            }
+        ]
+    },
+    {
+        "id": "lw04",
+        "group": [
+            {
+                "CCRMC": 1191,
+                "CHAM": 73,
+                "CVMC": 103,
+                "FCMC": 50,
+                "FVHS": 350,
+                "HCLite": 60,
+                "HUMC": 22,
+                "KDHCD": 28,
+                "LACUSC": 101,
+                "OVMC": 19,
+                "PHHS": 626,
+                "RCRMC": 608,
+                "Rancho": 138,
+                "SJGH": 58,
+                "SVDH": 17,
+                "UNMH": 396
+            }
+        ]
+    },
+    {
+        "id": "lw05",
+        "group": [
+            {
+                "CCRMC": 2051,
+                "CHAM": 84,
+                "CVMC": 47,
+                "FCHP": 16,
+                "FCMC": 134,
+                "FVHS": 105,
+                "HCLite": 15,
+                "HUMC": 472,
+                "KDHCD": 122,
+                "LACUSC": 102,
+                "OVMC": 313,
+                "PHHS": 333,
+                "RCRMC": 1170,
+                "Rancho": 276,
+                "SJGH": 46,
+                "SVDH": 1,
+                "UNMH": 677
+            }
+        ]
+    },
+    {
+        "id": "lw06",
+        "group": [
+            {
+                "CCRMC": 639,
+                "CHAM": 41,
+                "FCMC": 194,
+                "FVHS": 36,
+                "HUMC": 438,
+                "LACUSC": 21,
+                "OVMC": 409,
+                "PHHS": 106,
+                "RCRMC": 301,
+                "Rancho": 28,
+                "SJGH": 23,
+                "UNMH": 235
+            }
+        ]
+    },
+    {
+        "id": "lw08",
+        "group": [
+            {
+                "CCRMC": 1066,
+                "CHAM": 58,
+                "CVMC": 4,
+                "FCMC": 62,
+                "FVHS": 265,
+                "HUMC": 104,
+                "KDHCD": 19,
+                "LACUSC": 77,
+                "OVMC": 112,
+                "PHHS": 629,
+                "RCRMC": 772,
+                "Rancho": 151,
+                "SJGH": 70,
+                "UNMH": 393
+            }
+        ]
+    },
+    {
+        "id": "lw09",
+        "group": [
+            {
+                "CCRMC": 724,
+                "CHAM": 27,
+                "CVMC": 139,
+                "FCHP": 19,
+                "FCMC": 412,
+                "FVHS": 32,
+                "HUMC": 471,
+                "KDHCD": 110,
+                "LACUSC": 26,
+                "OVMC": 341,
+                "PHHS": 304,
+                "RCRMC": 424,
+                "Rancho": 154,
+                "SJGH": 28,
+                "SVDH": 23,
+                "UNMH": 275
+            }
+        ]
+    },
+    {
+        "id": "lw10",
+        "group": [
+            {
+                "CCRMC": 2132,
+                "CHAM": 78,
+                "CVMC": 29,
+                "FCMC": 122,
+                "FVHS": 181,
+                "HCLite": 26,
+                "HUMC": 537,
+                "KDHCD": 92,
+                "LACUSC": 125,
+                "OVMC": 482,
+                "PHHS": 603,
+                "RCRMC": 760,
+                "Rancho": 137,
+                "SJGH": 82,
+                "SVDH": 22,
+                "UNMH": 785
+            }
+        ]
+    },
+    {
+        "id": "lw11",
+        "group": [
+            {
+                "CCRMC": 2376,
+                "CHAM": 104,
+                "CVMC": 79,
+                "FCMC": 203,
+                "FVHS": 139,
+                "HUMC": 387,
+                "KDHCD": 147,
+                "LACUSC": 196,
+                "OVMC": 372,
+                "PHHS": 559,
+                "RCRMC": 1161,
+                "Rancho": 144,
+                "SJGH": 100,
+                "SVDH": 12,
+                "UNMH": 666
+            }
+        ]
+    },
+    {
+        "id": "lw12",
+        "group": [
+            {
+                "CCRMC": 1516,
+                "CHAM": 113,
+                "CVMC": 91,
+                "FCHP": 4,
+                "FCMC": 130,
+                "FVHS": 192,
+                "HUMC": 473,
+                "KDHCD": 3,
+                "LACUSC": 98,
+                "OVMC": 488,
+                "PHHS": 1055,
+                "RCRMC": 918,
+                "Rancho": 198,
+                "SJGH": 67,
+                "SVDH": 24,
+                "UNMH": 1178
+            }
+        ]
+    },
+    {
+        "id": "lw13",
+        "group": [
+            {
+                "CCRMC": 2752,
+                "CHAM": 175,
+                "CVMC": 237,
+                "FCMC": 262,
+                "FVHS": 208,
+                "HUMC": 392,
+                "KDHCD": 116,
+                "LACUSC": 12,
+                "OVMC": 512,
+                "PHHS": 817,
+                "RCRMC": 818,
+                "Rancho": 166,
+                "SJGH": 75,
+                "SVDH": 29,
+                "UNMH": 896
+            }
+        ]
+    },
+    {
+        "id": "lw14",
+        "group": [
+            {
+                "CCRMC": 1707,
+                "CHAM": 125,
+                "CVMC": 105,
+                "FCHP": 13,
+                "FCMC": 365,
+                "FVHS": 274,
+                "HUMC": 562,
+                "KDHCD": 14,
+                "LACUSC": 21,
+                "NATV": 43,
+                "OVMC": 322,
+                "PHHS": 1005,
+                "RCRMC": 860,
+                "Rancho": 269,
+                "SJGH": 80,
+                "SVDH": 37,
+                "UNMH": 1209
+            }
+        ]
+    },
+    {
+        "id": "lw16",
+        "group": [
+            {
+                "CCRMC": 1979,
+                "CHAM": 44,
+                "CVMC": 105,
+                "FCMC": 355,
+                "FVHS": 87,
+                "HUMC": 633,
+                "KDHCD": 42,
+                "LACUSC": 130,
+                "OVMC": 459,
+                "PHHS": 826,
+                "RCRMC": 940,
+                "Rancho": 257,
+                "SJGH": 161,
+                "SVDH": 21,
+                "UNMH": 748
+            }
+        ]
+    },
+    {
+        "id": "lw17",
+        "group": [
+            {
+                "CCRMC": 2885,
+                "CHAM": 79,
+                "CVMC": 66,
+                "FCHP": 13,
+                "FCMC": 178,
+                "FVHS": 30,
+                "HUMC": 624,
+                "KDHCD": 124,
+                "LACUSC": 59,
+                "OVMC": 359,
+                "PHHS": 838,
+                "RCRMC": 908,
+                "Rancho": 286,
+                "SJGH": 145,
+                "SVDH": 40,
+                "UNMH": 703
+            }
+        ]
+    },
+    {
+        "id": "lw20",
+        "group": [
+            {
+                "CCRMC": 979,
+                "CHAM": 150,
+                "CVMC": 14,
+                "FCHP": 20,
+                "FCMC": 116,
+                "FVHS": 118,
+                "HUMC": 95,
+                "KDHCD": 31,
+                "LACUSC": 30,
+                "OVMC": 131,
+                "PHHS": 686,
+                "RCRMC": 580,
+                "Rancho": 89,
+                "SJGH": 106,
+                "UNMH": 234
+            }
+        ]
+    },
+    {
+        "id": "lw22",
+        "group": [
+            {
+                "CCRMC": 1617,
+                "CHAM": 216,
+                "CVMC": 42,
+                "FCHP": 37,
+                "FCMC": 306,
+                "FVHS": 211,
+                "HUMC": 637,
+                "KDHCD": 103,
+                "LACUSC": 97,
+                "OVMC": 407,
+                "PHHS": 1175,
+                "RCRMC": 840,
+                "Rancho": 142,
+                "SJGH": 163,
+                "SVDH": 29,
+                "UNMH": 1082
+            }
+        ]
+    },
+    {
+        "id": "lw23",
+        "group": [
+            {
+                "CCRMC": 1944,
+                "CHAM": 98,
+                "CVMC": 57,
+                "FCMC": 230,
+                "FVHS": 256,
+                "HUMC": 642,
+                "KDHCD": 169,
+                "LACUSC": 41,
+                "OVMC": 484,
+                "PHHS": 637,
+                "RCRMC": 997,
+                "Rancho": 320,
+                "SJGH": 64,
+                "SVDH": 21,
+                "UNMH": 789
+            }
+        ]
+    },
+    {
+        "id": "lw24",
+        "group": [
+            {
+                "CCRMC": 52,
+                "HUMC": 48,
+                "OVMC": 22,
+                "PHHS": 5,
+                "RCRMC": 7,
+                "UNMH": 40
+            }
+        ]
+    },
+    {
+        "id": "lw25",
+        "group": [
+            {
+                "CCRMC": 2170,
+                "CHAM": 51,
+                "CVMC": 42,
+                "FCHP": 8,
+                "FCMC": 192,
+                "FVHS": 89,
+                "HCLite": 36,
+                "HUMC": 384,
+                "KDHCD": 47,
+                "LACUSC": 153,
+                "OVMC": 746,
+                "PHHS": 657,
+                "RCRMC": 1297,
+                "Rancho": 230,
+                "SJGH": 65,
+                "SVDH": 34,
+                "UNMH": 831
+            }
+        ]
+    },
+    {
+        "id": "lw26",
+        "group": [
+            {
+                "CCRMC": 236,
+                "CHAM": 61,
+                "FCMC": 137,
+                "FVHS": 12,
+                "HUMC": 29,
+                "OVMC": 90,
+                "PHHS": 93,
+                "RCRMC": 59,
+                "SJGH": 10,
+                "SVDH": 13,
+                "UNMH": 95
+            }
+        ]
+    },
+    {
+        "id": "lw27",
+        "group": [
+            {
+                "CCRMC": 2057,
+                "CHAM": 216,
+                "CVMC": 7,
+                "FCMC": 119,
+                "FVHS": 275,
+                "HUMC": 532,
+                "KDHCD": 113,
+                "LACUSC": 174,
+                "OVMC": 305,
+                "PHHS": 530,
+                "RCRMC": 1339,
+                "Rancho": 385,
+                "SJGH": 134,
+                "SVDH": 18,
+                "UNMH": 831
+            }
+        ]
+    },
+    {
+        "id": "lw28",
+        "group": [
+            {
+                "CCRMC": 1015,
+                "CHAM": 55,
+                "CVMC": 12,
+                "FCHP": 4,
+                "FCMC": 105,
+                "FVHS": 82,
+                "HUMC": 218,
+                "KDHCD": 51,
+                "LACUSC": 7,
+                "OVMC": 215,
+                "PHHS": 301,
+                "RCRMC": 356,
+                "Rancho": 59,
+                "SJGH": 38,
+                "SVDH": 39,
+                "UNMH": 289
+            }
+        ]
+    },
+    {
+        "id": "lw29",
+        "group": [
+            {
+                "RCRMC": 9
+            }
+        ]
+    },
+    {
+        "id": "lw30",
+        "group": [
+            {
+                "CCRMC": 1981,
+                "CHAM": 94,
+                "CVMC": 32,
+                "FCHP": 19,
+                "FCMC": 315,
+                "FVHS": 137,
+                "HUMC": 770,
+                "KDHCD": 35,
+                "LACUSC": 67,
+                "OVMC": 563,
+                "PHHS": 509,
+                "RCRMC": 967,
+                "Rancho": 312,
+                "SJGH": 149,
+                "SVDH": 36,
+                "UNMH": 838
+            }
+        ]
+    },
+    {
+        "id": "lw31",
+        "group": [
+            {
+                "CCRMC": 2047,
+                "CHAM": 127,
+                "CVMC": 61,
+                "FCMC": 127,
+                "FVHS": 154,
+                "HUMC": 330,
+                "KDHCD": 97,
+                "LACUSC": 69,
+                "OVMC": 557,
+                "PHHS": 775,
+                "RCRMC": 901,
+                "Rancho": 207,
+                "SJGH": 156,
+                "SVDH": 8,
+                "UNMH": 1037
+            }
+        ]
+    },
+    {
+        "id": "ok01",
+        "group": [
+            {
+                "CCRMC": 438,
+                "CHAM": 83,
+                "CVMC": 35,
+                "FCHP": 34,
+                "FCMC": 44,
+                "HUMC": 124,
+                "KDHCD": 25,
+                "OVMC": 69,
+                "PHHS": 148,
+                "RCRMC": 138,
+                "Rancho": 77,
+                "SJGH": 19,
+                "SVDH": 8,
+                "UNMH": 195
+            }
+        ]
+    },
+    {
+        "id": "ok02",
+        "group": [
+            {
+                "CCRMC": 1127,
+                "CHAM": 123,
+                "CVMC": 19,
+                "FCHP": 99,
+                "FCMC": 188,
+                "FVHS": 119,
+                "HUMC": 347,
+                "KDHCD": 14,
+                "LACUSC": 56,
+                "OVMC": 304,
+                "PHHS": 618,
+                "RCRMC": 601,
+                "Rancho": 58,
+                "SJGH": 33,
+                "SVDH": 2,
+                "UNMH": 609
+            }
+        ]
+    },
+    {
+        "id": "ok03",
+        "group": [
+            {
+                "CCRMC": 1751,
+                "CHAM": 90,
+                "CVMC": 67,
+                "FCHP": 13,
+                "FCMC": 74,
+                "FVHS": 183,
+                "HUMC": 207,
+                "KDHCD": 83,
+                "LACUSC": 13,
+                "NATV": 33,
+                "OVMC": 339,
+                "PHHS": 791,
+                "RCRMC": 433,
+                "Rancho": 147,
+                "SJGH": 69,
+                "SVDH": 1,
+                "UNMH": 651
+            }
+        ]
+    },
+    {
+        "id": "ok04",
+        "group": [
+            {
+                "CCRMC": 1728,
+                "CHAM": 44,
+                "CVMC": 92,
+                "FCHP": 20,
+                "FCMC": 111,
+                "FVHS": 196,
+                "HUMC": 473,
+                "KDHCD": 32,
+                "LACUSC": 46,
+                "OVMC": 370,
+                "PHHS": 603,
+                "RCRMC": 611,
+                "Rancho": 59,
+                "SJGH": 122,
+                "SVDH": 11,
+                "UNMH": 397
+            }
+        ]
+    },
+    {
+        "id": "ok05",
+        "group": [
+            {
+                "CCRMC": 1090,
+                "CHAM": 145,
+                "CVMC": 18,
+                "FCHP": 92,
+                "FCMC": 129,
+                "FVHS": 212,
+                "HUMC": 277,
+                "KDHCD": 24,
+                "LACUSC": 79,
+                "OVMC": 279,
+                "PHHS": 774,
+                "RCRMC": 467,
+                "Rancho": 138,
+                "SJGH": 91,
+                "SVDH": 13,
+                "UNMH": 697
+            }
+        ]
+    },
+    {
+        "id": "ok06",
+        "group": [
+            {
+                "CCRMC": 1621,
+                "CHAM": 332,
+                "CVMC": 72,
+                "FCHP": 8,
+                "FCMC": 138,
+                "FVHS": 453,
+                "HUMC": 413,
+                "KDHCD": 79,
+                "LACUSC": 91,
+                "OVMC": 305,
+                "PHHS": 1042,
+                "RCRMC": 568,
+                "Rancho": 261,
+                "SJGH": 43,
+                "SVDH": 3,
+                "UNMH": 891
+            }
+        ]
+    },
+    {
+        "id": "ok07",
+        "group": [
+            {
+                "AVLite": 5,
+                "CCRMC": 2364,
+                "CHAM": 93,
+                "CVMC": 53,
+                "FCHP": 40,
+                "FCMC": 142,
+                "FVHS": 92,
+                "HUMC": 375,
+                "KDHCD": 139,
+                "LACUSC": 90,
+                "OVMC": 367,
+                "PHHS": 965,
+                "RCRMC": 869,
+                "Rancho": 209,
+                "SJGH": 46,
+                "SVDH": 48,
+                "UNMH": 906
+            }
+        ]
+    },
+    {
+        "id": "ok08",
+        "group": [
+            {
+                "CCRMC": 797,
+                "CHAM": 199,
+                "CVMC": 28,
+                "FCMC": 88,
+                "FVHS": 151,
+                "HUMC": 204,
+                "KDHCD": 31,
+                "LACUSC": 160,
+                "OVMC": 106,
+                "PHHS": 495,
+                "RCRMC": 211,
+                "SJGH": 2,
+                "SVDH": 31,
+                "UNMH": 357
+            }
+        ]
+    },
+    {
+        "id": "ok09",
+        "group": [
+            {
+                "CCRMC": 1469,
+                "CHAM": 136,
+                "CVMC": 39,
+                "FCHP": 4,
+                "FCMC": 72,
+                "FVHS": 256,
+                "HUMC": 405,
+                "KDHCD": 49,
+                "LACUSC": 155,
+                "OVMC": 278,
+                "PHHS": 1166,
+                "RCRMC": 686,
+                "Rancho": 205,
+                "SJGH": 122,
+                "SVDH": 26,
+                "UNMH": 843
+            }
+        ]
+    },
+    {
+        "id": "ok10",
+        "group": [
+            {
+                "CCRMC": 1631,
+                "CHAM": 338,
+                "CVMC": 14,
+                "FCHP": 14,
+                "FCMC": 270,
+                "FVHS": 261,
+                "HUMC": 488,
+                "KDHCD": 117,
+                "LACUSC": 115,
+                "OVMC": 334,
+                "PHHS": 1443,
+                "RCRMC": 737,
+                "Rancho": 298,
+                "SJGH": 100,
+                "SVDH": 31,
+                "UNMH": 913
+            }
+        ]
+    },
+    {
+        "id": "ok11",
+        "group": [
+            {
+                "CCRMC": 1519,
+                "CHAM": 112,
+                "CVMC": 43,
+                "FCHP": 9,
+                "FCMC": 100,
+                "FVHS": 87,
+                "HCLite": 2,
+                "HUMC": 333,
+                "KDHCD": 9,
+                "LACUSC": 64,
+                "OVMC": 256,
+                "PHHS": 777,
+                "RCRMC": 564,
+                "Rancho": 77,
+                "SJGH": 91,
+                "UNMH": 641
+            }
+        ]
+    },
+    {
+        "id": "ok12",
+        "group": [
+            {
+                "CCRMC": 1756,
+                "CHAM": 165,
+                "CVMC": 64,
+                "FCHP": 25,
+                "FCMC": 184,
+                "FVHS": 313,
+                "HUMC": 332,
+                "KDHCD": 53,
+                "LACUSC": 58,
+                "OVMC": 332,
+                "PHHS": 935,
+                "RCRMC": 567,
+                "Rancho": 174,
+                "SJGH": 79,
+                "SVDH": 38,
+                "UNMH": 735
+            }
+        ]
+    },
+    {
+        "id": "ok13",
+        "group": [
+            {
+                "CCRMC": 881,
+                "CHAM": 247,
+                "CVMC": 40,
+                "FCHP": 13,
+                "FCMC": 58,
+                "FVHS": 366,
+                "HCLite": 31,
+                "HUMC": 231,
+                "KDHCD": 52,
+                "OVMC": 145,
+                "PHHS": 939,
+                "RCRMC": 446,
+                "Rancho": 36,
+                "SJGH": 31,
+                "UNMH": 473
+            }
+        ]
+    },
+    {
+        "id": "ok14",
+        "group": [
+            {
+                "CCRMC": 1273,
+                "CHAM": 70,
+                "CVMC": 42,
+                "FCMC": 96,
+                "FVHS": 497,
+                "HUMC": 379,
+                "KDHCD": 136,
+                "LACUSC": 9,
+                "OVMC": 208,
+                "PHHS": 849,
+                "RCRMC": 957,
+                "Rancho": 96,
+                "SJGH": 71,
+                "SVDH": 3,
+                "UNMH": 542
+            }
+        ]
+    },
+    {
+        "id": "ok15",
+        "group": [
+            {
+                "CCRMC": 1568,
+                "CHAM": 144,
+                "CVMC": 15,
+                "FCHP": 8,
+                "FCMC": 286,
+                "FVHS": 63,
+                "HCLite": 7,
+                "HUMC": 400,
+                "KDHCD": 39,
+                "LACUSC": 233,
+                "OVMC": 267,
+                "PHHS": 728,
+                "RCRMC": 560,
+                "Rancho": 22,
+                "SJGH": 67,
+                "SVDH": 22,
+                "UNMH": 616
+            }
+        ]
+    },
+    {
+        "id": "pa09",
+        "group": [
+            {
+                "CCRMC": 45,
+                "CHAM": 21,
+                "FCHP": 2,
+                "FCMC": 4,
+                "FVHS": 51,
+                "HUMC": 18,
+                "KDHCD": 7,
+                "LACUSC": 10,
+                "NATV": 12,
+                "OVMC": 25,
+                "PHHS": 112,
+                "RCRMC": 2,
+                "UNMH": 19
+            }
+        ]
+    },
+    {
+        "id": "pa15",
+        "group": [
+            {
+                "CHAM": 56,
+                "RCRMC": 1
+            }
+        ]
+    },
+    {
+        "id": "pa17",
+        "group": [
+            {
+                "CCRMC": 68,
+                "FCMC": 12,
+                "LACUSC": 58,
+                "RCRMC": 27
+            }
+        ]
+    },
+    {
+        "id": "pa20",
+        "group": [
+            {
+                "CCRMC": 86,
+                "CHAM": 1272
+            }
+        ]
+    },
+    {
+        "id": "pa21",
+        "group": [
+            {
+                "CCRMC": 700,
+                "CHAM": 7741,
+                "HUMC": 41,
+                "KDHCD": 6,
+                "SJGH": 25
+            }
+        ]
+    },
+    {
+        "id": "pa22",
+        "group": [
+            {
+                "CCRMC": 407,
+                "FCMC": 87,
+                "FVHS": 116,
+                "HCLite": 45,
+                "HUMC": 60,
+                "LACUSC": 184,
+                "OVMC": 15,
+                "PHHS": 17,
+                "RCRMC": 41,
+                "Rancho": 53,
+                "SJGH": 15,
+                "UNMH": 113
+            }
+        ]
+    },
+    {
+        "id": "pa24",
+        "group": [
+            {
+                "CCRMC": 207,
+                "CHAM": 3664,
+                "HUMC": 47,
+                "PHHS": 4,
+                "RCRMC": 14
+            }
+        ]
+    },
+    {
+        "id": "pa25",
+        "group": [
+            {
+                "CCRMC": 114,
+                "CHAM": 2691,
+                "FVHS": 23,
+                "OVMC": 4
+            }
+        ]
+    },
+    {
+        "id": "pa27",
+        "group": [
+            {
+                "CCRMC": 1,
+                "CHAM": 479
+            }
+        ]
+    },
+    {
+        "id": "pa28",
+        "group": [
+            {
+                "CCRMC": 586,
+                "CHAM": 1643,
+                "CVMC": 31,
+                "FCMC": 3,
+                "FVHS": 20,
+                "HUMC": 151,
+                "KDHCD": 13,
+                "OVMC": 68,
+                "PHHS": 107,
+                "RCRMC": 176,
+                "Rancho": 23,
+                "SJGH": 12,
+                "SVDH": 18,
+                "UNMH": 16
+            }
+        ]
+    },
+    {
+        "id": "pa29",
+        "group": [
+            {
+                "CCRMC": 1436,
+                "FCMC": 315,
+                "FVHS": 473,
+                "HUMC": 88,
+                "KDHCD": 81,
+                "LACUSC": 265,
+                "NATV": 7,
+                "OVMC": 62,
+                "PHHS": 6,
+                "RCRMC": 174,
+                "Rancho": 194,
+                "SJGH": 66,
+                "UNMH": 50
+            }
+        ]
+    },
+    {
+        "id": "pa32",
+        "group": [
+            {
+                "CCRMC": 488,
+                "CHAM": 160,
+                "CVMC": 1,
+                "FCMC": 7,
+                "OVMC": 1,
+                "RCRMC": 34,
+                "Rancho": 42,
+                "SJGH": 8,
+                "UNMH": 247
+            }
+        ]
+    },
+    {
+        "id": "pa33",
+        "group": [
+            {
+                "CCRMC": 67,
+                "CHAM": 1023
+            }
+        ]
+    },
+    {
+        "id": "pa34",
+        "group": [
+            {
+                "CCRMC": 307,
+                "FCMC": 12,
+                "FVHS": 182,
+                "HUMC": 30,
+                "LACUSC": 39,
+                "OVMC": 15,
+                "RCRMC": 100,
+                "Rancho": 110,
+                "SJGH": 2,
+                "UNMH": 54
+            }
+        ]
+    },
+    {
+        "id": "pa36",
+        "group": [
+            {
+                "CCRMC": 674,
+                "CHAM": 5606,
+                "FVHS": 51,
+                "HUMC": 15,
+                "RCRMC": 5
+            }
+        ]
+    },
+    {
+        "id": "pa37",
+        "group": [
+            {
+                "CCRMC": 34
+            }
+        ]
+    },
+    {
+        "id": "pa39",
+        "group": [
+            {
+                "CCRMC": 1533,
+                "CHAM": 268,
+                "CVMC": 33,
+                "FCMC": 37,
+                "HUMC": 253,
+                "OVMC": 32,
+                "PHHS": 27,
+                "RCRMC": 155,
+                "Rancho": 153,
+                "SVDH": 3,
+                "UNMH": 554
+            }
+        ]
+    },
+    {
+        "id": "pa43",
+        "group": [
+            {
+                "CCRMC": 151,
+                "CHAM": 3730
+            }
+        ]
+    },
+    {
+        "id": "sj304",
+        "group": [
+            {
+                "CCRMC": 60
+            }
+        ]
+    },
+    {
+        "id": "sl09",
+        "group": [
+            {
+                "FCMC": 60
+            }
+        ]
+    },
+    {
+        "id": "sla00",
+        "group": [
+            {
+                "AVLite": 18,
+                "CCRMC": 254,
+                "CHAM": 15,
+                "FCMC": 15,
+                "FVHS": 9,
+                "HCLite": 20,
+                "KDHCD": 10,
+                "LACUSC": 35,
+                "OVMC": 54,
+                "PHHS": 2985,
+                "RCRMC": 316,
+                "Rancho": 75,
+                "UNMH": 257
+            }
+        ]
+    },
+    {
+        "id": "slb02",
+        "group": [
+            {
+                "CCRMC": 395,
+                "CHAM": 186,
+                "FCMC": 54,
+                "FVHS": 117,
+                "HUMC": 152,
+                "KDHCD": 75,
+                "LACUSC": 118,
+                "OVMC": 133,
+                "PHHS": 681,
+                "RCRMC": 111,
+                "Rancho": 51,
+                "SJGH": 43,
+                "UNMH": 614
+            }
+        ]
+    },
+    {
+        "id": "slb04",
+        "group": [
+            {
+                "CCHMC": 1,
+                "CCRMC": 72,
+                "CHAM": 5,
+                "FVHS": 57,
+                "HUMC": 62,
+                "LACUSC": 44,
+                "OVMC": 38,
+                "PHHS": 393,
+                "RCRMC": 369,
+                "UNMH": 366
+            }
+        ]
+    },
+    {
+        "id": "slc01",
+        "group": [
+            {
+                "CCRMC": 518,
+                "CHAM": 57,
+                "FCMC": 54,
+                "FVHS": 8,
+                "HUMC": 94,
+                "LACUSC": 151,
+                "OVMC": 5,
+                "PHHS": 483,
+                "RCRMC": 193,
+                "UNMH": 199
+            }
+        ]
+    },
+    {
+        "id": "sld01",
+        "group": [
+            {
+                "CCRMC": 108,
+                "CHAM": 1,
+                "FCMC": 3,
+                "FVHS": 4,
+                "HUMC": 18,
+                "PHHS": 69,
+                "RCRMC": 177,
+                "UNMH": 34
+            }
+        ]
+    },
+    {
+        "id": "sle02",
+        "group": [
+            {
+                "CCRMC": 32,
+                "HUMC": 40,
+                "LACUSC": 3,
+                "PHHS": 22,
+                "RCRMC": 155
+            }
+        ]
+    },
+    {
+        "id": "slh01",
+        "group": [
+            {
+                "CCRMC": 4,
+                "CHAM": 17,
+                "LACUSC": 41,
+                "PHHS": 12,
+                "RCRMC": 23
+            }
+        ]
+    },
+    {
+        "id": "sp01",
+        "group": [
+            {
+                "CCRMC": 766,
+                "CHAM": 53,
+                "CVMC": 10,
+                "FCHP": 61,
+                "FCMC": 197,
+                "HUMC": 629,
+                "KDHCD": 36,
+                "LACUSC": 22,
+                "OVMC": 394,
+                "PHHS": 66,
+                "RCRMC": 332,
+                "Rancho": 169,
+                "SJGH": 48,
+                "UNMH": 216
+            }
+        ]
+    },
+    {
+        "id": "sp03",
+        "group": [
+            {
+                "CCRMC": 2378,
+                "CHAM": 234,
+                "CVMC": 32,
+                "FCHP": 37,
+                "FCMC": 471,
+                "FVHS": 1,
+                "HUMC": 950,
+                "KDHCD": 122,
+                "LACUSC": 11,
+                "OVMC": 713,
+                "PHHS": 620,
+                "RCRMC": 910,
+                "Rancho": 181,
+                "SJGH": 150,
+                "SVDH": 97,
+                "UNMH": 672
+            }
+        ]
+    },
+    {
+        "id": "sp04",
+        "group": [
+            {
+                "CCRMC": 81,
+                "CHAM": 4,
+                "FCHP": 2,
+                "FCMC": 19,
+                "HUMC": 57,
+                "OVMC": 46,
+                "RCRMC": 27,
+                "UNMH": 31
+            }
+        ]
+    },
+    {
+        "id": "sp07",
+        "group": [
+            {
+                "CCRMC": 282,
+                "CHAM": 62,
+                "CVMC": 4,
+                "FCMC": 126,
+                "FVHS": 33,
+                "HUMC": 195,
+                "KDHCD": 10,
+                "OVMC": 172,
+                "PHHS": 199,
+                "RCRMC": 250,
+                "Rancho": 49,
+                "SJGH": 22,
+                "SVDH": 24,
+                "UNMH": 177
+            }
+        ]
+    },
+    {
+        "id": "sp08",
+        "group": [
+            {
+                "CCRMC": 117,
+                "CHAM": 19,
+                "FCHP": 7,
+                "FCMC": 13,
+                "FVHS": 7,
+                "OVMC": 5,
+                "PHHS": 63,
+                "RCRMC": 93,
+                "SJGH": 13,
+                "UNMH": 10
+            }
+        ]
+    },
+    {
+        "id": "sp09",
+        "group": [
+            {
+                "CCRMC": 925,
+                "CHAM": 4,
+                "FCHP": 7,
+                "FCMC": 289,
+                "FVHS": 9,
+                "HUMC": 724,
+                "KDHCD": 141,
+                "LACUSC": 13,
+                "OVMC": 419,
+                "PHHS": 179,
+                "RCRMC": 478,
+                "Rancho": 212,
+                "SJGH": 32,
+                "SVDH": 22,
+                "UNMH": 709
+            }
+        ]
+    },
+    {
+        "id": "sp10",
+        "group": [
+            {
+                "CCRMC": 1155,
+                "CHAM": 41,
+                "CVMC": 6,
+                "FCMC": 40,
+                "FVHS": 130,
+                "HUMC": 209,
+                "KDHCD": 15,
+                "LACUSC": 9,
+                "OVMC": 243,
+                "PHHS": 298,
+                "RCRMC": 381,
+                "Rancho": 135,
+                "SJGH": 49,
+                "SVDH": 34,
+                "UNMH": 230
+            }
+        ]
+    },
+    {
+        "id": "sp100",
+        "group": [
+            {
+                "CCRMC": 4601,
+                "CHAM": 414,
+                "CVMC": 53,
+                "FCHP": 11,
+                "FCMC": 911,
+                "FVHS": 255,
+                "HUMC": 1871,
+                "KDHCD": 167,
+                "LACUSC": 56,
+                "NATV": 4,
+                "OVMC": 659,
+                "PHHS": 1807,
+                "RCRMC": 1140,
+                "Rancho": 255,
+                "SJGH": 318,
+                "SVDH": 164,
+                "UNMH": 1532
+            }
+        ]
+    },
+    {
+        "id": "sp101",
+        "group": [
+            {
+                "CCRMC": 798,
+                "CHAM": 27,
+                "CVMC": 26,
+                "FCHP": 8,
+                "FCMC": 294,
+                "HUMC": 760,
+                "KDHCD": 52,
+                "OVMC": 502,
+                "PHHS": 185,
+                "RCRMC": 606,
+                "Rancho": 189,
+                "SJGH": 7,
+                "SVDH": 20,
+                "UNMH": 532
+            }
+        ]
+    },
+    {
+        "id": "sp105",
+        "group": [
+            {
+                "CCRMC": 1946,
+                "CHAM": 205,
+                "CVMC": 95,
+                "FCHP": 13,
+                "FCMC": 285,
+                "FVHS": 100,
+                "HCLite": 4,
+                "HUMC": 834,
+                "KDHCD": 43,
+                "LACUSC": 24,
+                "NATV": 3,
+                "OVMC": 327,
+                "PHHS": 1072,
+                "RCRMC": 448,
+                "Rancho": 40,
+                "SJGH": 137,
+                "SVDH": 70,
+                "UNMH": 527
+            }
+        ]
+    },
+    {
+        "id": "sp107",
+        "group": [
+            {
+                "CCRMC": 170,
+                "FCMC": 27,
+                "FVHS": 30,
+                "HUMC": 84,
+                "OVMC": 66,
+                "PHHS": 32,
+                "RCRMC": 193,
+                "Rancho": 56,
+                "SVDH": 100,
+                "UNMH": 41
+            }
+        ]
+    },
+    {
+        "id": "sp109",
+        "group": [
+            {
+                "CCRMC": 18,
+                "UNMH": 26
+            }
+        ]
+    },
+    {
+        "id": "sp11",
+        "group": [
+            {
+                "CCRMC": 107,
+                "FVHS": 2,
+                "OVMC": 7,
+                "PHHS": 21,
+                "UNMH": 7
+            }
+        ]
+    },
+    {
+        "id": "sp111",
+        "group": [
+            {
+                "CCRMC": 718,
+                "CHAM": 20,
+                "CVMC": 66,
+                "FCHP": 10,
+                "FCMC": 211,
+                "HUMC": 695,
+                "KDHCD": 31,
+                "LACUSC": 15,
+                "NATV": 22,
+                "OVMC": 363,
+                "PHHS": 107,
+                "RCRMC": 543,
+                "Rancho": 25,
+                "SJGH": 135,
+                "SVDH": 59,
+                "UNMH": 229
+            }
+        ]
+    },
+    {
+        "id": "sp112",
+        "group": [
+            {
+                "CCRMC": 254,
+                "CHAM": 44,
+                "FCMC": 239,
+                "HUMC": 213,
+                "KDHCD": 27,
+                "LACUSC": 31,
+                "OVMC": 47,
+                "PHHS": 163,
+                "RCRMC": 179,
+                "Rancho": 12,
+                "SJGH": 50,
+                "SVDH": 14,
+                "UNMH": 138
+            }
+        ]
+    },
+    {
+        "id": "sp113",
+        "group": [
+            {
+                "CCRMC": 15,
+                "KDHCD": 14,
+                "OVMC": 13,
+                "RCRMC": 41
+            }
+        ]
+    },
+    {
+        "id": "sp114",
+        "group": [
+            {
+                "CCRMC": 1083,
+                "CHAM": 118,
+                "CVMC": 7,
+                "FCMC": 255,
+                "FVHS": 38,
+                "HUMC": 54,
+                "KDHCD": 5,
+                "LACUSC": 202,
+                "OVMC": 30,
+                "PHHS": 161,
+                "RCRMC": 404,
+                "Rancho": 104,
+                "SJGH": 42,
+                "UNMH": 81
+            }
+        ]
+    },
+    {
+        "id": "sp115",
+        "group": [
+            {
+                "CCRMC": 560,
+                "CHAM": 84,
+                "FCMC": 164,
+                "FVHS": 53,
+                "HUMC": 589,
+                "KDHCD": 81,
+                "LACUSC": 25,
+                "OVMC": 266,
+                "PHHS": 304,
+                "RCRMC": 424,
+                "Rancho": 75,
+                "SJGH": 29,
+                "SVDH": 8,
+                "UNMH": 472
+            }
+        ]
+    },
+    {
+        "id": "sp116",
+        "group": [
+            {
+                "CHAM": 3271
+            }
+        ]
+    },
+    {
+        "id": "sp117",
+        "group": [
+            {
+                "CCRMC": 474,
+                "CHAM": 223,
+                "CVMC": 2,
+                "FCMC": 110,
+                "FVHS": 68,
+                "HCLite": 27,
+                "HUMC": 187,
+                "KDHCD": 5,
+                "LACUSC": 10,
+                "OVMC": 113,
+                "PHHS": 444,
+                "RCRMC": 321,
+                "Rancho": 19,
+                "SJGH": 18,
+                "SVDH": 5,
+                "UNMH": 276
+            }
+        ]
+    },
+    {
+        "id": "sp118",
+        "group": [
+            {
+                "CCRMC": 83,
+                "CVMC": 6,
+                "FCMC": 11,
+                "HUMC": 70,
+                "KDHCD": 39,
+                "OVMC": 36,
+                "PHHS": 76,
+                "RCRMC": 148,
+                "Rancho": 8,
+                "SJGH": 12,
+                "UNMH": 31
+            }
+        ]
+    },
+    {
+        "id": "sp119",
+        "group": [
+            {
+                "CCRMC": 1145,
+                "CHAM": 156,
+                "CVMC": 44,
+                "FCMC": 319,
+                "FVHS": 94,
+                "HUMC": 569,
+                "KDHCD": 45,
+                "LACUSC": 45,
+                "OVMC": 373,
+                "PHHS": 344,
+                "RCRMC": 565,
+                "Rancho": 42,
+                "SJGH": 153,
+                "SVDH": 33,
+                "UNMH": 611
+            }
+        ]
+    },
+    {
+        "id": "sp121",
+        "group": [
+            {
+                "CCRMC": 1027,
+                "CHAM": 10,
+                "CVMC": 53,
+                "FCHP": 63,
+                "FCMC": 514,
+                "FVHS": 77,
+                "HCLite": 41,
+                "HUMC": 1067,
+                "KDHCD": 66,
+                "LACUSC": 68,
+                "NATV": 7,
+                "OVMC": 425,
+                "PHHS": 270,
+                "RCRMC": 641,
+                "Rancho": 112,
+                "SJGH": 56,
+                "SVDH": 6,
+                "UNMH": 597
+            }
+        ]
+    },
+    {
+        "id": "sp122",
+        "group": [
+            {
+                "CCRMC": 2299,
+                "CHAM": 70,
+                "CVMC": 24,
+                "FCHP": 29,
+                "FCMC": 645,
+                "FVHS": 52,
+                "HUMC": 1143,
+                "KDHCD": 100,
+                "LACUSC": 54,
+                "OVMC": 567,
+                "PHHS": 690,
+                "RCRMC": 930,
+                "Rancho": 313,
+                "SJGH": 68,
+                "SVDH": 36,
+                "UNMH": 928
+            }
+        ]
+    },
+    {
+        "id": "sp123",
+        "group": [
+            {
+                "KDHCD": 20,
+                "RCRMC": 2
+            }
+        ]
+    },
+    {
+        "id": "sp125",
+        "group": [
+            {
+                "CCRMC": 596,
+                "CHAM": 12,
+                "CVMC": 29,
+                "FCHP": 3,
+                "FCMC": 155,
+                "FVHS": 102,
+                "HUMC": 538,
+                "KDHCD": 35,
+                "LACUSC": 11,
+                "OVMC": 268,
+                "PHHS": 184,
+                "RCRMC": 346,
+                "Rancho": 56,
+                "SJGH": 103,
+                "SVDH": 9,
+                "UNMH": 313
+            }
+        ]
+    },
+    {
+        "id": "sp126",
+        "group": [
+            {
+                "CCRMC": 101,
+                "CHAM": 6,
+                "CVMC": 2,
+                "FCMC": 16,
+                "HUMC": 84,
+                "KDHCD": 4,
+                "LACUSC": 10,
+                "OVMC": 44,
+                "PHHS": 75,
+                "SVDH": 5,
+                "UNMH": 120
+            }
+        ]
+    },
+    {
+        "id": "sp127",
+        "group": [
+            {
+                "CCRMC": 152,
+                "CHAM": 368,
+                "FCMC": 7,
+                "FVHS": 27,
+                "HUMC": 3,
+                "KDHCD": 20,
+                "PHHS": 59,
+                "RCRMC": 8,
+                "Rancho": 24,
+                "SJGH": 4,
+                "UNMH": 13
+            }
+        ]
+    },
+    {
+        "id": "sp129",
+        "group": [
+            {
+                "CCRMC": 26,
+                "CHAM": 13,
+                "FCMC": 82,
+                "HUMC": 36,
+                "KDHCD": 11,
+                "OVMC": 59,
+                "PHHS": 13,
+                "RCRMC": 19,
+                "SVDH": 3,
+                "UNMH": 8
+            }
+        ]
+    },
+    {
+        "id": "sp13",
+        "group": [
+            {
+                "CCRMC": 395,
+                "CVMC": 5,
+                "FCHP": 8,
+                "FCMC": 111,
+                "FVHS": 7,
+                "HUMC": 284,
+                "KDHCD": 29,
+                "OVMC": 203,
+                "PHHS": 165,
+                "RCRMC": 201,
+                "Rancho": 168,
+                "SJGH": 16,
+                "SVDH": 41,
+                "UNMH": 103
+            }
+        ]
+    },
+    {
+        "id": "sp15",
+        "group": [
+            {
+                "CCRMC": 3084,
+                "CHAM": 28,
+                "CVMC": 49,
+                "FCHP": 37,
+                "FCMC": 453,
+                "FVHS": 118,
+                "HUMC": 1227,
+                "KDHCD": 213,
+                "LACUSC": 45,
+                "OVMC": 592,
+                "PHHS": 604,
+                "RCRMC": 981,
+                "Rancho": 321,
+                "SJGH": 225,
+                "SVDH": 24,
+                "UNMH": 653
+            }
+        ]
+    },
+    {
+        "id": "sp17",
+        "group": [
+            {
+                "CCRMC": 237,
+                "CVMC": 8,
+                "FCMC": 97,
+                "HUMC": 95,
+                "KDHCD": 11,
+                "OVMC": 26,
+                "PHHS": 39,
+                "RCRMC": 39,
+                "SJGH": 10,
+                "UNMH": 156
+            }
+        ]
+    },
+    {
+        "id": "sp18",
+        "group": [
+            {
+                "CCRMC": 750,
+                "CHAM": 140,
+                "CVMC": 46,
+                "FCMC": 137,
+                "FVHS": 129,
+                "HUMC": 314,
+                "KDHCD": 58,
+                "LACUSC": 9,
+                "OVMC": 239,
+                "PHHS": 651,
+                "RCRMC": 236,
+                "Rancho": 15,
+                "SJGH": 57,
+                "SVDH": 37,
+                "UNMH": 265
+            }
+        ]
+    },
+    {
+        "id": "sp19",
+        "group": [
+            {
+                "CCRMC": 89,
+                "CHAM": 5,
+                "FCMC": 23,
+                "HUMC": 118,
+                "OVMC": 156,
+                "PHHS": 131,
+                "RCRMC": 31,
+                "Rancho": 19,
+                "SVDH": 5,
+                "UNMH": 74
+            }
+        ]
+    },
+    {
+        "id": "sp20",
+        "group": [
+            {
+                "CCRMC": 108,
+                "CVMC": 21,
+                "FCMC": 29,
+                "FVHS": 44,
+                "HUMC": 56,
+                "OVMC": 14,
+                "PHHS": 65,
+                "RCRMC": 29,
+                "SJGH": 5,
+                "UNMH": 14
+            }
+        ]
+    },
+    {
+        "id": "sp22",
+        "group": [
+            {
+                "CCRMC": 1242,
+                "CHAM": 97,
+                "CVMC": 72,
+                "FCHP": 3,
+                "FCMC": 193,
+                "FVHS": 74,
+                "HUMC": 424,
+                "KDHCD": 36,
+                "LACUSC": 114,
+                "OVMC": 244,
+                "PHHS": 178,
+                "RCRMC": 210,
+                "Rancho": 116,
+                "SJGH": 39,
+                "SVDH": 17,
+                "UNMH": 466
+            }
+        ]
+    },
+    {
+        "id": "sp25",
+        "group": [
+            {
+                "CCRMC": 438,
+                "CVMC": 5,
+                "FCHP": 52,
+                "FCMC": 126,
+                "FVHS": 50,
+                "HUMC": 626,
+                "KDHCD": 25,
+                "OVMC": 289,
+                "PHHS": 179,
+                "RCRMC": 433,
+                "Rancho": 70,
+                "SJGH": 32,
+                "UNMH": 473
+            }
+        ]
+    },
+    {
+        "id": "sp29",
+        "group": [
+            {
+                "CCRMC": 420,
+                "CHAM": 53,
+                "FCMC": 147,
+                "HUMC": 122,
+                "KDHCD": 22,
+                "LACUSC": 52,
+                "OVMC": 105,
+                "PHHS": 176,
+                "RCRMC": 121,
+                "Rancho": 20,
+                "SJGH": 11,
+                "SVDH": 27,
+                "UNMH": 54
+            }
+        ]
+    },
+    {
+        "id": "sp302",
+        "group": [
+            {
+                "CCRMC": 2158,
+                "CHAM": 69,
+                "CVMC": 35,
+                "FCHP": 16,
+                "FCMC": 787,
+                "FVHS": 221,
+                "HUMC": 1654,
+                "KDHCD": 88,
+                "LACUSC": 47,
+                "OVMC": 1025,
+                "PHHS": 774,
+                "RCRMC": 1471,
+                "Rancho": 168,
+                "SJGH": 69,
+                "SVDH": 99,
+                "UNMH": 1344
+            }
+        ]
+    },
+    {
+        "id": "sp304",
+        "group": [
+            {
+                "CCRMC": 25,
+                "CVMC": 6,
+                "FCMC": 7,
+                "HUMC": 17,
+                "PHHS": 30,
+                "SJGH": 13
+            }
+        ]
+    },
+    {
+        "id": "sp305",
+        "group": [
+            {
+                "CCRMC": 192,
+                "FCMC": 44,
+                "HUMC": 300,
+                "OVMC": 60,
+                "PHHS": 5,
+                "RCRMC": 94,
+                "Rancho": 38,
+                "SVDH": 3,
+                "UNMH": 73
+            }
+        ]
+    },
+    {
+        "id": "sp307",
+        "group": [
+            {
+                "CCRMC": 242,
+                "CVMC": 7,
+                "FCMC": 66,
+                "HUMC": 129,
+                "KDHCD": 29,
+                "OVMC": 26,
+                "PHHS": 69,
+                "RCRMC": 51,
+                "Rancho": 21,
+                "SJGH": 19,
+                "SVDH": 14,
+                "UNMH": 73
+            }
+        ]
+    },
+    {
+        "id": "sp308",
+        "group": [
+            {
+                "CCRMC": 384,
+                "CHAM": 17,
+                "CVMC": 27,
+                "FCMC": 136,
+                "FVHS": 11,
+                "HUMC": 216,
+                "KDHCD": 53,
+                "OVMC": 130,
+                "PHHS": 64,
+                "RCRMC": 145,
+                "Rancho": 19,
+                "SJGH": 29,
+                "SVDH": 9,
+                "UNMH": 39
+            }
+        ]
+    },
+    {
+        "id": "sp309",
+        "group": [
+            {
+                "CCRMC": 330,
+                "CVMC": 15,
+                "FCMC": 186,
+                "HUMC": 243,
+                "KDHCD": 6,
+                "OVMC": 250,
+                "PHHS": 54,
+                "RCRMC": 256,
+                "Rancho": 77,
+                "SVDH": 4,
+                "UNMH": 172
+            }
+        ]
+    },
+    {
+        "id": "sp31",
+        "group": [
+            {
+                "CCRMC": 1581,
+                "CHAM": 55,
+                "CVMC": 67,
+                "FCHP": 51,
+                "FCMC": 257,
+                "HUMC": 817,
+                "KDHCD": 98,
+                "LACUSC": 54,
+                "OVMC": 575,
+                "PHHS": 209,
+                "RCRMC": 722,
+                "Rancho": 201,
+                "SJGH": 184,
+                "SVDH": 19,
+                "UNMH": 443
+            }
+        ]
+    },
+    {
+        "id": "sp310",
+        "group": [
+            {
+                "CCRMC": 1689,
+                "CHAM": 144,
+                "CVMC": 97,
+                "FCHP": 34,
+                "FCMC": 283,
+                "FVHS": 135,
+                "HUMC": 891,
+                "KDHCD": 98,
+                "LACUSC": 30,
+                "OVMC": 746,
+                "PHHS": 402,
+                "RCRMC": 1190,
+                "Rancho": 90,
+                "SJGH": 38,
+                "SVDH": 23,
+                "UNMH": 960
+            }
+        ]
+    },
+    {
+        "id": "sp311",
+        "group": [
+            {
+                "CCRMC": 731,
+                "CHAM": 62,
+                "CVMC": 97,
+                "FCMC": 202,
+                "FVHS": 20,
+                "HUMC": 244,
+                "KDHCD": 67,
+                "LACUSC": 8,
+                "NATV": 4,
+                "OVMC": 249,
+                "PHHS": 248,
+                "RCRMC": 154,
+                "SJGH": 33,
+                "SVDH": 6,
+                "UNMH": 110
+            }
+        ]
+    },
+    {
+        "id": "sp312",
+        "group": [
+            {
+                "CCRMC": 727,
+                "CHAM": 5,
+                "CVMC": 73,
+                "FCHP": 45,
+                "FCMC": 219,
+                "FVHS": 91,
+                "HUMC": 469,
+                "KDHCD": 83,
+                "OVMC": 296,
+                "PHHS": 219,
+                "RCRMC": 484,
+                "Rancho": 38,
+                "SJGH": 15,
+                "SVDH": 26,
+                "UNMH": 254
+            }
+        ]
+    },
+    {
+        "id": "sp313",
+        "group": [
+            {
+                "CCRMC": 2350,
+                "CHAM": 273,
+                "CVMC": 205,
+                "FCHP": 17,
+                "FCMC": 821,
+                "FVHS": 52,
+                "HUMC": 2043,
+                "KDHCD": 131,
+                "LACUSC": 77,
+                "OVMC": 1052,
+                "PHHS": 840,
+                "RCRMC": 1244,
+                "Rancho": 85,
+                "SJGH": 223,
+                "SVDH": 38,
+                "UNMH": 1061
+            }
+        ]
+    },
+    {
+        "id": "sp315",
+        "group": [
+            {
+                "CCRMC": 485,
+                "CVMC": 27,
+                "FCHP": 10,
+                "FCMC": 40,
+                "FVHS": 8,
+                "HCLite": 25,
+                "HUMC": 199,
+                "OVMC": 87,
+                "PHHS": 113,
+                "RCRMC": 83,
+                "Rancho": 95,
+                "SJGH": 4,
+                "SVDH": 7,
+                "UNMH": 29
+            }
+        ]
+    },
+    {
+        "id": "sp317",
+        "group": [
+            {
+                "CCRMC": 2318,
+                "CHAM": 168,
+                "CVMC": 162,
+                "FCHP": 13,
+                "FCMC": 744,
+                "FVHS": 96,
+                "HUMC": 1298,
+                "KDHCD": 147,
+                "LACUSC": 41,
+                "OVMC": 761,
+                "PHHS": 1251,
+                "RCRMC": 695,
+                "Rancho": 42,
+                "SJGH": 384,
+                "SVDH": 93,
+                "UNMH": 756
+            }
+        ]
+    },
+    {
+        "id": "sp318",
+        "group": [
+            {
+                "CCRMC": 2898,
+                "CHAM": 409,
+                "CVMC": 152,
+                "FCHP": 109,
+                "FCMC": 1015,
+                "FVHS": 93,
+                "HUMC": 1984,
+                "KDHCD": 400,
+                "LACUSC": 137,
+                "OVMC": 1318,
+                "PHHS": 2096,
+                "RCRMC": 1413,
+                "Rancho": 339,
+                "SJGH": 249,
+                "SVDH": 57,
+                "UNMH": 897
+            }
+        ]
+    },
+    {
+        "id": "sp320",
+        "group": [
+            {
+                "CCRMC": 734,
+                "FCHP": 85,
+                "FCMC": 228,
+                "HUMC": 537,
+                "KDHCD": 6,
+                "LACUSC": 5,
+                "OVMC": 295,
+                "PHHS": 90,
+                "RCRMC": 348,
+                "Rancho": 89,
+                "SJGH": 42,
+                "SVDH": 7,
+                "UNMH": 176
+            }
+        ]
+    },
+    {
+        "id": "sp321",
+        "group": [
+            {
+                "CCRMC": 1593,
+                "CVMC": 98,
+                "FCHP": 41,
+                "FCMC": 437,
+                "FVHS": 86,
+                "HUMC": 920,
+                "KDHCD": 66,
+                "LACUSC": 14,
+                "OVMC": 892,
+                "PHHS": 249,
+                "RCRMC": 790,
+                "Rancho": 175,
+                "SJGH": 59,
+                "SVDH": 68,
+                "UNMH": 682
+            }
+        ]
+    },
+    {
+        "id": "sp323",
+        "group": [
+            {
+                "CCRMC": 3212,
+                "CHAM": 255,
+                "CVMC": 155,
+                "FCHP": 60,
+                "FCMC": 782,
+                "FVHS": 180,
+                "HCLite": 2,
+                "HUMC": 1886,
+                "KDHCD": 150,
+                "LACUSC": 36,
+                "OVMC": 1318,
+                "PHHS": 1033,
+                "RCRMC": 1450,
+                "Rancho": 327,
+                "SJGH": 329,
+                "SVDH": 83,
+                "UNMH": 1342
+            }
+        ]
+    },
+    {
+        "id": "sp326",
+        "group": [
+            {
+                "CCRMC": 72,
+                "CVMC": 6,
+                "FCMC": 116,
+                "HUMC": 41,
+                "KDHCD": 3,
+                "OVMC": 53,
+                "PHHS": 27,
+                "RCRMC": 57,
+                "Rancho": 50,
+                "UNMH": 16
+            }
+        ]
+    },
+    {
+        "id": "sp329",
+        "group": [
+            {
+                "CCRMC": 710,
+                "CHAM": 37,
+                "CVMC": 46,
+                "FCHP": 26,
+                "FCMC": 315,
+                "FVHS": 93,
+                "HUMC": 647,
+                "KDHCD": 144,
+                "OVMC": 243,
+                "PHHS": 229,
+                "RCRMC": 479,
+                "Rancho": 18,
+                "SJGH": 45,
+                "SVDH": 33,
+                "UNMH": 540
+            }
+        ]
+    },
+    {
+        "id": "sp33",
+        "group": [
+            {
+                "CCRMC": 1446,
+                "CHAM": 182,
+                "CVMC": 86,
+                "FCHP": 17,
+                "FCMC": 271,
+                "FVHS": 160,
+                "HUMC": 577,
+                "KDHCD": 78,
+                "LACUSC": 24,
+                "OVMC": 361,
+                "PHHS": 601,
+                "RCRMC": 373,
+                "Rancho": 161,
+                "SJGH": 248,
+                "SVDH": 63,
+                "UNMH": 372
+            }
+        ]
+    },
+    {
+        "id": "sp332",
+        "group": [
+            {
+                "CHAM": 7
+            }
+        ]
+    },
+    {
+        "id": "sp334",
+        "group": [
+            {
+                "CCRMC": 199,
+                "CVMC": 5,
+                "FCMC": 5,
+                "HUMC": 41,
+                "LACUSC": 174,
+                "OVMC": 85,
+                "PHHS": 14,
+                "RCRMC": 58,
+                "Rancho": 19,
+                "SVDH": 5,
+                "UNMH": 188
+            }
+        ]
+    },
+    {
+        "id": "sp336",
+        "group": [
+            {
+                "CCRMC": 922,
+                "CHAM": 65,
+                "CVMC": 45,
+                "FCHP": 16,
+                "FCMC": 463,
+                "FVHS": 93,
+                "HUMC": 703,
+                "KDHCD": 176,
+                "LACUSC": 24,
+                "NATV": 17,
+                "OVMC": 566,
+                "PHHS": 330,
+                "RCRMC": 568,
+                "Rancho": 139,
+                "SJGH": 34,
+                "SVDH": 47,
+                "UNMH": 496
+            }
+        ]
+    },
+    {
+        "id": "sp337",
+        "group": [
+            {
+                "CCRMC": 156,
+                "CHAM": 28,
+                "CVMC": 51,
+                "FCHP": 15,
+                "FCMC": 8,
+                "HUMC": 113,
+                "KDHCD": 4,
+                "OVMC": 58,
+                "PHHS": 4,
+                "RCRMC": 97,
+                "Rancho": 24,
+                "UNMH": 44
+            }
+        ]
+    },
+    {
+        "id": "sp338",
+        "group": [
+            {
+                "CCRMC": 31,
+                "FCMC": 2,
+                "HUMC": 16,
+                "KDHCD": 1,
+                "PHHS": 31,
+                "RCRMC": 24,
+                "SJGH": 7,
+                "UNMH": 9
+            }
+        ]
+    },
+    {
+        "id": "sp339",
+        "group": [
+            {
+                "CCRMC": 440,
+                "CHAM": 14,
+                "CVMC": 50,
+                "FCMC": 135,
+                "HUMC": 117,
+                "KDHCD": 19,
+                "OVMC": 125,
+                "PHHS": 141,
+                "RCRMC": 145,
+                "Rancho": 11,
+                "SJGH": 25,
+                "UNMH": 144
+            }
+        ]
+    },
+    {
+        "id": "sp34",
+        "group": [
+            {
+                "CCRMC": 607,
+                "CHAM": 26,
+                "CVMC": 9,
+                "FCMC": 138,
+                "FVHS": 72,
+                "HUMC": 171,
+                "KDHCD": 8,
+                "LACUSC": 6,
+                "OVMC": 194,
+                "PHHS": 295,
+                "RCRMC": 92,
+                "SJGH": 44,
+                "SVDH": 21,
+                "UNMH": 113
+            }
+        ]
+    },
+    {
+        "id": "sp340",
+        "group": [
+            {
+                "CCRMC": 231,
+                "CHAM": 10,
+                "CVMC": 20,
+                "FCMC": 88,
+                "HUMC": 281,
+                "KDHCD": 26,
+                "OVMC": 121,
+                "PHHS": 53,
+                "RCRMC": 156,
+                "SJGH": 5,
+                "SVDH": 21,
+                "UNMH": 183
+            }
+        ]
+    },
+    {
+        "id": "sp342",
+        "group": [
+            {
+                "CCRMC": 78,
+                "FCMC": 11,
+                "HUMC": 11,
+                "OVMC": 11,
+                "RCRMC": 12,
+                "Rancho": 4,
+                "SVDH": 3,
+                "UNMH": 9
+            }
+        ]
+    },
+    {
+        "id": "sp346",
+        "group": [
+            {
+                "CCRMC": 219,
+                "CVMC": 2,
+                "FCHP": 13,
+                "FCMC": 172,
+                "FVHS": 50,
+                "HUMC": 271,
+                "OVMC": 60,
+                "PHHS": 6,
+                "RCRMC": 147,
+                "Rancho": 21,
+                "SVDH": 4,
+                "UNMH": 132
+            }
+        ]
+    },
+    {
+        "id": "sp347",
+        "group": [
+            {
+                "CCRMC": 1154,
+                "CHAM": 14,
+                "CVMC": 99,
+                "FCHP": 28,
+                "FCMC": 205,
+                "FVHS": 18,
+                "HUMC": 835,
+                "KDHCD": 68,
+                "LACUSC": 1,
+                "OVMC": 623,
+                "PHHS": 126,
+                "RCRMC": 619,
+                "Rancho": 279,
+                "SJGH": 73,
+                "UNMH": 513
+            }
+        ]
+    },
+    {
+        "id": "sp348",
+        "group": [
+            {
+                "CCRMC": 125,
+                "CHAM": 5,
+                "FCMC": 6,
+                "HUMC": 175,
+                "KDHCD": 8,
+                "LACUSC": 66,
+                "OVMC": 54,
+                "RCRMC": 86,
+                "UNMH": 97
+            }
+        ]
+    },
+    {
+        "id": "sp35",
+        "group": [
+            {
+                "CCRMC": 488,
+                "CVMC": 164,
+                "FCHP": 4,
+                "FCMC": 249,
+                "FVHS": 32,
+                "HUMC": 494,
+                "KDHCD": 73,
+                "LACUSC": 20,
+                "OVMC": 191,
+                "PHHS": 182,
+                "RCRMC": 293,
+                "Rancho": 164,
+                "SJGH": 55,
+                "SVDH": 19,
+                "UNMH": 211
+            }
+        ]
+    },
+    {
+        "id": "sp352",
+        "group": [
+            {
+                "CCRMC": 98,
+                "HUMC": 61,
+                "OVMC": 19,
+                "PHHS": 21,
+                "RCRMC": 10,
+                "SJGH": 3,
+                "UNMH": 46
+            }
+        ]
+    },
+    {
+        "id": "sp353",
+        "group": [
+            {
+                "CCRMC": 989,
+                "CHAM": 3,
+                "CVMC": 11,
+                "FCHP": 3,
+                "FCMC": 129,
+                "FVHS": 2,
+                "HUMC": 258,
+                "KDHCD": 16,
+                "LACUSC": 21,
+                "OVMC": 367,
+                "PHHS": 238,
+                "RCRMC": 439,
+                "Rancho": 83,
+                "SJGH": 49,
+                "SVDH": 21,
+                "UNMH": 264
+            }
+        ]
+    },
+    {
+        "id": "sp354",
+        "group": [
+            {
+                "CCRMC": 339,
+                "CHAM": 14,
+                "FCMC": 57,
+                "HUMC": 342,
+                "KDHCD": 64,
+                "LACUSC": 6,
+                "OVMC": 261,
+                "PHHS": 75,
+                "RCRMC": 200,
+                "Rancho": 52,
+                "SJGH": 76,
+                "SVDH": 5,
+                "UNMH": 170
+            }
+        ]
+    },
+    {
+        "id": "sp356",
+        "group": [
+            {
+                "CCRMC": 3156,
+                "CHAM": 430,
+                "CVMC": 85,
+                "FCHP": 26,
+                "FCMC": 928,
+                "FVHS": 214,
+                "HUMC": 2349,
+                "KDHCD": 271,
+                "LACUSC": 169,
+                "OVMC": 1683,
+                "PHHS": 1429,
+                "RCRMC": 1124,
+                "Rancho": 195,
+                "SJGH": 399,
+                "SVDH": 58,
+                "UNMH": 1393
+            }
+        ]
+    },
+    {
+        "id": "sp357",
+        "group": [
+            {
+                "CCRMC": 217,
+                "CHAM": 4,
+                "FCHP": 4,
+                "FCMC": 47,
+                "FVHS": 42,
+                "HUMC": 93,
+                "KDHCD": 4,
+                "OVMC": 78,
+                "PHHS": 40,
+                "RCRMC": 21,
+                "SJGH": 3,
+                "SVDH": 5,
+                "UNMH": 26
+            }
+        ]
+    },
+    {
+        "id": "sp358",
+        "group": [
+            {
+                "CCRMC": 1005,
+                "CHAM": 34,
+                "CVMC": 62,
+                "FCMC": 390,
+                "FVHS": 78,
+                "HUMC": 645,
+                "KDHCD": 62,
+                "LACUSC": 12,
+                "OVMC": 244,
+                "PHHS": 446,
+                "RCRMC": 530,
+                "Rancho": 60,
+                "SJGH": 70,
+                "SVDH": 12,
+                "UNMH": 368
+            }
+        ]
+    },
+    {
+        "id": "sp359",
+        "group": [
+            {
+                "AVLite": 2,
+                "CCRMC": 217,
+                "CVMC": 4,
+                "FCHP": 25,
+                "FCMC": 48,
+                "FVHS": 5,
+                "HUMC": 126,
+                "KDHCD": 3,
+                "OVMC": 107,
+                "PHHS": 16,
+                "RCRMC": 128,
+                "Rancho": 3,
+                "SVDH": 13,
+                "UNMH": 54
+            }
+        ]
+    },
+    {
+        "id": "sp362",
+        "group": [
+            {
+                "CCRMC": 1255,
+                "CHAM": 10,
+                "CVMC": 64,
+                "FCHP": 27,
+                "FCMC": 486,
+                "FVHS": 73,
+                "HCLite": 72,
+                "HUMC": 1327,
+                "KDHCD": 74,
+                "OVMC": 781,
+                "PHHS": 198,
+                "RCRMC": 930,
+                "Rancho": 213,
+                "SVDH": 4,
+                "UNMH": 485
+            }
+        ]
+    },
+    {
+        "id": "sp365",
+        "group": [
+            {
+                "CCRMC": 138,
+                "CHAM": 33,
+                "CVMC": 57,
+                "FCMC": 44,
+                "FVHS": 17,
+                "HUMC": 127,
+                "KDHCD": 41,
+                "OVMC": 50,
+                "PHHS": 58,
+                "RCRMC": 93,
+                "Rancho": 45,
+                "UNMH": 74
+            }
+        ]
+    },
+    {
+        "id": "sp368",
+        "group": [
+            {
+                "CCRMC": 585,
+                "CHAM": 7,
+                "CVMC": 26,
+                "FCHP": 18,
+                "FCMC": 134,
+                "HUMC": 514,
+                "KDHCD": 37,
+                "OVMC": 239,
+                "PHHS": 186,
+                "RCRMC": 252,
+                "Rancho": 25,
+                "SJGH": 58,
+                "SVDH": 8,
+                "UNMH": 167
+            }
+        ]
+    },
+    {
+        "id": "sp369",
+        "group": [
+            {
+                "CCRMC": 542,
+                "CHAM": 18,
+                "CVMC": 7,
+                "FCHP": 10,
+                "FCMC": 281,
+                "FVHS": 9,
+                "HUMC": 712,
+                "KDHCD": 42,
+                "OVMC": 483,
+                "PHHS": 111,
+                "RCRMC": 578,
+                "Rancho": 156,
+                "SJGH": 33,
+                "SVDH": 16,
+                "UNMH": 342
+            }
+        ]
+    },
+    {
+        "id": "sp37",
+        "group": [
+            {
+                "CCRMC": 845,
+                "CHAM": 19,
+                "CVMC": 17,
+                "FCHP": 22,
+                "FCMC": 166,
+                "FVHS": 21,
+                "HUMC": 596,
+                "KDHCD": 73,
+                "LACUSC": 11,
+                "NATV": 56,
+                "OVMC": 625,
+                "PHHS": 173,
+                "RCRMC": 437,
+                "Rancho": 100,
+                "SJGH": 10,
+                "SVDH": 17,
+                "UNMH": 211
+            }
+        ]
+    },
+    {
+        "id": "sp370",
+        "group": [
+            {
+                "CCRMC": 61,
+                "CHAM": 26,
+                "CVMC": 4,
+                "FCMC": 42,
+                "HUMC": 101,
+                "OVMC": 26,
+                "PHHS": 13,
+                "RCRMC": 14
+            }
+        ]
+    },
+    {
+        "id": "sp372",
+        "group": [
+            {
+                "CCRMC": 2317,
+                "CHAM": 253,
+                "CVMC": 88,
+                "FCHP": 22,
+                "FCMC": 594,
+                "FVHS": 88,
+                "HCLite": 40,
+                "HUMC": 1785,
+                "KDHCD": 244,
+                "LACUSC": 5,
+                "OVMC": 876,
+                "PHHS": 832,
+                "RCRMC": 1126,
+                "Rancho": 146,
+                "SJGH": 114,
+                "SVDH": 58,
+                "UNMH": 1229
+            }
+        ]
+    },
+    {
+        "id": "sp374",
+        "group": [
+            {
+                "CCRMC": 849,
+                "CHAM": 11,
+                "CVMC": 27,
+                "FCHP": 9,
+                "FCMC": 323,
+                "FVHS": 7,
+                "HUMC": 551,
+                "KDHCD": 25,
+                "LACUSC": 34,
+                "OVMC": 611,
+                "PHHS": 54,
+                "RCRMC": 429,
+                "Rancho": 48,
+                "SJGH": 31,
+                "SVDH": 24,
+                "UNMH": 335
+            }
+        ]
+    },
+    {
+        "id": "sp377",
+        "group": [
+            {
+                "CCRMC": 40,
+                "CVMC": 3,
+                "FCMC": 12,
+                "HUMC": 72,
+                "KDHCD": 19,
+                "OVMC": 35,
+                "RCRMC": 46,
+                "UNMH": 30
+            }
+        ]
+    },
+    {
+        "id": "sp38",
+        "group": [
+            {
+                "CCRMC": 2125,
+                "CHAM": 229,
+                "CVMC": 75,
+                "FCHP": 145,
+                "FCMC": 687,
+                "FVHS": 41,
+                "HUMC": 1590,
+                "KDHCD": 93,
+                "LACUSC": 22,
+                "OVMC": 962,
+                "PHHS": 758,
+                "RCRMC": 1357,
+                "Rancho": 282,
+                "SJGH": 191,
+                "SVDH": 125,
+                "UNMH": 655
+            }
+        ]
+    },
+    {
+        "id": "sp382",
+        "group": [
+            {
+                "CCRMC": 227,
+                "CHAM": 19,
+                "FCHP": 5,
+                "FCMC": 14,
+                "HUMC": 108,
+                "KDHCD": 31,
+                "OVMC": 208,
+                "PHHS": 9,
+                "RCRMC": 83,
+                "Rancho": 15,
+                "SJGH": 12,
+                "SVDH": 31,
+                "UNMH": 81
+            }
+        ]
+    },
+    {
+        "id": "sp383",
+        "group": [
+            {
+                "CCRMC": 228,
+                "FCHP": 3,
+                "FCMC": 23,
+                "HUMC": 221,
+                "KDHCD": 22,
+                "OVMC": 24,
+                "PHHS": 40,
+                "RCRMC": 236,
+                "Rancho": 12,
+                "SJGH": 43,
+                "UNMH": 24
+            }
+        ]
+    },
+    {
+        "id": "sp384",
+        "group": [
+            {
+                "CCRMC": 780,
+                "CVMC": 21,
+                "FCHP": 10,
+                "FCMC": 197,
+                "FVHS": 167,
+                "HUMC": 539,
+                "KDHCD": 43,
+                "OVMC": 443,
+                "PHHS": 177,
+                "RCRMC": 418,
+                "Rancho": 51,
+                "SJGH": 71,
+                "SVDH": 18,
+                "UNMH": 342
+            }
+        ]
+    },
+    {
+        "id": "sp385",
+        "group": [
+            {
+                "CCRMC": 152,
+                "FCMC": 14,
+                "HUMC": 228,
+                "KDHCD": 13,
+                "LACUSC": 12,
+                "OVMC": 80,
+                "PHHS": 41,
+                "RCRMC": 155,
+                "Rancho": 63,
+                "SJGH": 46,
+                "SVDH": 13,
+                "UNMH": 30
+            }
+        ]
+    },
+    {
+        "id": "sp386",
+        "group": [
+            {
+                "CCRMC": 240,
+                "CHAM": 37,
+                "FCMC": 49,
+                "HUMC": 78,
+                "OVMC": 119,
+                "PHHS": 115,
+                "RCRMC": 181,
+                "Rancho": 3,
+                "SJGH": 17,
+                "SVDH": 10,
+                "UNMH": 147
+            }
+        ]
+    },
+    {
+        "id": "sp387",
+        "group": [
+            {
+                "CCRMC": 79,
+                "CHAM": 5,
+                "CVMC": 8,
+                "FCHP": 19,
+                "FCMC": 10,
+                "HUMC": 76,
+                "KDHCD": 14,
+                "OVMC": 69,
+                "PHHS": 26,
+                "RCRMC": 28,
+                "Rancho": 26,
+                "SJGH": 16,
+                "UNMH": 91
+            }
+        ]
+    },
+    {
+        "id": "sp388",
+        "group": [
+            {
+                "CCRMC": 151,
+                "FCMC": 50,
+                "HUMC": 44,
+                "KDHCD": 6,
+                "OVMC": 131,
+                "PHHS": 16,
+                "RCRMC": 104,
+                "Rancho": 88,
+                "UNMH": 101
+            }
+        ]
+    },
+    {
+        "id": "sp389",
+        "group": [
+            {
+                "CCRMC": 683,
+                "CHAM": 16,
+                "CVMC": 26,
+                "FCHP": 53,
+                "FCMC": 147,
+                "FVHS": 17,
+                "HUMC": 661,
+                "KDHCD": 154,
+                "OVMC": 211,
+                "PHHS": 293,
+                "RCRMC": 378,
+                "Rancho": 111,
+                "SJGH": 65,
+                "SVDH": 20,
+                "UNMH": 431
+            }
+        ]
+    },
+    {
+        "id": "sp390",
+        "group": [
+            {
+                "CCRMC": 9,
+                "CVMC": 5,
+                "FCMC": 15,
+                "HUMC": 44,
+                "OVMC": 115,
+                "PHHS": 21,
+                "RCRMC": 35,
+                "UNMH": 15
+            }
+        ]
+    },
+    {
+        "id": "sp391",
+        "group": [
+            {
+                "CCRMC": 307,
+                "CHAM": 2,
+                "CVMC": 15,
+                "FCMC": 39,
+                "HUMC": 130,
+                "KDHCD": 6,
+                "OVMC": 86,
+                "PHHS": 17,
+                "RCRMC": 12,
+                "Rancho": 42,
+                "SJGH": 31,
+                "UNMH": 10
+            }
+        ]
+    },
+    {
+        "id": "sp393",
+        "group": [
+            {
+                "CCRMC": 1315,
+                "CHAM": 80,
+                "CVMC": 16,
+                "FCHP": 6,
+                "FCMC": 311,
+                "FVHS": 7,
+                "HUMC": 1094,
+                "KDHCD": 93,
+                "LACUSC": 62,
+                "OVMC": 574,
+                "PHHS": 161,
+                "RCRMC": 723,
+                "Rancho": 245,
+                "SJGH": 37,
+                "SVDH": 66,
+                "UNMH": 391
+            }
+        ]
+    },
+    {
+        "id": "sp394",
+        "group": [
+            {
+                "CCRMC": 547,
+                "CHAM": 23,
+                "CVMC": 43,
+                "FCHP": 2,
+                "FCMC": 171,
+                "FVHS": 34,
+                "HUMC": 274,
+                "KDHCD": 67,
+                "LACUSC": 7,
+                "OVMC": 238,
+                "PHHS": 312,
+                "RCRMC": 288,
+                "Rancho": 128,
+                "SJGH": 21,
+                "SVDH": 23,
+                "UNMH": 151
+            }
+        ]
+    },
+    {
+        "id": "sp398",
+        "group": [
+            {
+                "CCRMC": 172,
+                "FCMC": 54,
+                "FVHS": 8,
+                "HUMC": 83,
+                "OVMC": 37,
+                "PHHS": 194,
+                "RCRMC": 36,
+                "SJGH": 67,
+                "SVDH": 47,
+                "UNMH": 31
+            }
+        ]
+    },
+    {
+        "id": "sp399",
+        "group": [
+            {
+                "CCRMC": 1314,
+                "CHAM": 36,
+                "CVMC": 118,
+                "FCHP": 56,
+                "FCMC": 918,
+                "HUMC": 1613,
+                "KDHCD": 164,
+                "LACUSC": 32,
+                "OVMC": 966,
+                "PHHS": 261,
+                "RCRMC": 1226,
+                "Rancho": 190,
+                "SJGH": 61,
+                "UNMH": 674
+            }
+        ]
+    },
+    {
+        "id": "sp40",
+        "group": [
+            {
+                "CCRMC": 913,
+                "CHAM": 27,
+                "CVMC": 95,
+                "FCMC": 177,
+                "FVHS": 23,
+                "HUMC": 705,
+                "KDHCD": 12,
+                "OVMC": 378,
+                "PHHS": 61,
+                "RCRMC": 763,
+                "Rancho": 127,
+                "SJGH": 26,
+                "SVDH": 7,
+                "UNMH": 322
+            }
+        ]
+    },
+    {
+        "id": "sp401",
+        "group": [
+            {
+                "CCRMC": 334,
+                "CHAM": 91,
+                "FCHP": 21,
+                "FCMC": 74,
+                "FVHS": 15,
+                "HUMC": 200,
+                "KDHCD": 53,
+                "LACUSC": 5,
+                "OVMC": 193,
+                "PHHS": 311,
+                "RCRMC": 200,
+                "Rancho": 21,
+                "SJGH": 86,
+                "SVDH": 9,
+                "UNMH": 185
+            }
+        ]
+    },
+    {
+        "id": "sp402",
+        "group": [
+            {
+                "CCRMC": 1876,
+                "CHAM": 178,
+                "CVMC": 81,
+                "FCHP": 7,
+                "FCMC": 973,
+                "FVHS": 28,
+                "HUMC": 1581,
+                "KDHCD": 94,
+                "LACUSC": 77,
+                "OVMC": 922,
+                "PHHS": 546,
+                "RCRMC": 1225,
+                "Rancho": 229,
+                "SJGH": 172,
+                "SVDH": 90,
+                "UNMH": 1168
+            }
+        ]
+    },
+    {
+        "id": "sp403",
+        "group": [
+            {
+                "CCRMC": 456,
+                "CHAM": 8,
+                "CVMC": 124,
+                "FCHP": 15,
+                "FCMC": 105,
+                "HUMC": 414,
+                "KDHCD": 18,
+                "NATV": 11,
+                "OVMC": 326,
+                "PHHS": 58,
+                "RCRMC": 259,
+                "Rancho": 90,
+                "SJGH": 31,
+                "SVDH": 23,
+                "UNMH": 280
+            }
+        ]
+    },
+    {
+        "id": "sp404",
+        "group": [
+            {
+                "CCRMC": 501,
+                "CHAM": 5,
+                "CVMC": 60,
+                "FCHP": 41,
+                "FCMC": 75,
+                "FVHS": 26,
+                "HUMC": 413,
+                "KDHCD": 41,
+                "OVMC": 119,
+                "PHHS": 127,
+                "RCRMC": 679,
+                "Rancho": 126,
+                "SJGH": 16,
+                "SVDH": 38,
+                "UNMH": 488
+            }
+        ]
+    },
+    {
+        "id": "sp405",
+        "group": [
+            {
+                "CCRMC": 351,
+                "CVMC": 53,
+                "FCHP": 3,
+                "FCMC": 86,
+                "HUMC": 147,
+                "KDHCD": 4,
+                "OVMC": 246,
+                "PHHS": 49,
+                "RCRMC": 34,
+                "Rancho": 33,
+                "SJGH": 77,
+                "SVDH": 3,
+                "UNMH": 87
+            }
+        ]
+    },
+    {
+        "id": "sp406",
+        "group": [
+            {
+                "CCRMC": 8,
+                "FCHP": 2,
+                "HUMC": 23,
+                "NATV": 8
+            }
+        ]
+    },
+    {
+        "id": "sp407",
+        "group": [
+            {
+                "CCRMC": 504,
+                "CHAM": 59,
+                "CVMC": 6,
+                "FCHP": 2,
+                "FCMC": 103,
+                "HUMC": 515,
+                "KDHCD": 14,
+                "OVMC": 250,
+                "PHHS": 72,
+                "RCRMC": 610,
+                "Rancho": 29,
+                "SJGH": 20,
+                "SVDH": 60,
+                "UNMH": 177
+            }
+        ]
+    },
+    {
+        "id": "sp408",
+        "group": [
+            {
+                "CCRMC": 1236,
+                "CHAM": 54,
+                "CVMC": 92,
+                "FCHP": 26,
+                "FCMC": 383,
+                "FVHS": 78,
+                "HUMC": 929,
+                "KDHCD": 128,
+                "LACUSC": 70,
+                "OVMC": 692,
+                "PHHS": 339,
+                "RCRMC": 691,
+                "Rancho": 211,
+                "SJGH": 97,
+                "SVDH": 13,
+                "UNMH": 857
+            }
+        ]
+    },
+    {
+        "id": "sp409",
+        "group": [
+            {
+                "CCRMC": 154,
+                "CHAM": 8,
+                "FCHP": 3,
+                "FCMC": 4,
+                "FVHS": 1,
+                "HUMC": 36,
+                "OVMC": 40,
+                "PHHS": 15,
+                "RCRMC": 73,
+                "Rancho": 33,
+                "SVDH": 5,
+                "UNMH": 20
+            }
+        ]
+    },
+    {
+        "id": "sp41",
+        "group": [
+            {
+                "CCRMC": 128,
+                "CHAM": 24,
+                "CVMC": 5,
+                "FCMC": 48,
+                "HUMC": 36,
+                "OVMC": 8,
+                "RCRMC": 52,
+                "UNMH": 13
+            }
+        ]
+    },
+    {
+        "id": "sp410",
+        "group": [
+            {
+                "CCRMC": 121,
+                "CHAM": 22,
+                "FCMC": 93,
+                "HUMC": 78,
+                "KDHCD": 31,
+                "LACUSC": 9,
+                "OVMC": 92,
+                "PHHS": 36,
+                "RCRMC": 120,
+                "Rancho": 6,
+                "SVDH": 3,
+                "UNMH": 83
+            }
+        ]
+    },
+    {
+        "id": "sp412",
+        "group": [
+            {
+                "CCRMC": 99,
+                "FCMC": 64,
+                "HUMC": 138,
+                "KDHCD": 6,
+                "OVMC": 16,
+                "PHHS": 42,
+                "RCRMC": 80,
+                "SJGH": 2,
+                "UNMH": 61
+            }
+        ]
+    },
+    {
+        "id": "sp414",
+        "group": [
+            {
+                "CCRMC": 396,
+                "CHAM": 14,
+                "CVMC": 14,
+                "FCHP": 21,
+                "FCMC": 110,
+                "FVHS": 25,
+                "HUMC": 493,
+                "KDHCD": 31,
+                "OVMC": 352,
+                "PHHS": 304,
+                "RCRMC": 339,
+                "Rancho": 122,
+                "SJGH": 16,
+                "UNMH": 131
+            }
+        ]
+    },
+    {
+        "id": "sp415",
+        "group": [
+            {
+                "CCRMC": 273,
+                "FCHP": 4,
+                "FCMC": 70,
+                "HUMC": 239,
+                "KDHCD": 18,
+                "OVMC": 255,
+                "PHHS": 22,
+                "RCRMC": 213,
+                "Rancho": 55,
+                "SJGH": 3,
+                "UNMH": 125
+            }
+        ]
+    },
+    {
+        "id": "sp417",
+        "group": [
+            {
+                "CCRMC": 534,
+                "CHAM": 93,
+                "CVMC": 4,
+                "FCHP": 7,
+                "FCMC": 204,
+                "FVHS": 97,
+                "HUMC": 418,
+                "KDHCD": 41,
+                "OVMC": 70,
+                "PHHS": 198,
+                "RCRMC": 213,
+                "SJGH": 46,
+                "SVDH": 32,
+                "UNMH": 174
+            }
+        ]
+    },
+    {
+        "id": "sp418",
+        "group": [
+            {
+                "CCRMC": 27,
+                "FCMC": 13,
+                "HUMC": 46,
+                "OVMC": 44,
+                "PHHS": 12,
+                "RCRMC": 7,
+                "Rancho": 13,
+                "UNMH": 103
+            }
+        ]
+    },
+    {
+        "id": "sp419",
+        "group": [
+            {
+                "CCRMC": 34,
+                "HUMC": 3,
+                "OVMC": 17,
+                "PHHS": 11,
+                "RCRMC": 7,
+                "SJGH": 6,
+                "UNMH": 3
+            }
+        ]
+    },
+    {
+        "id": "sp420",
+        "group": [
+            {
+                "CCRMC": 331,
+                "FCHP": 18,
+                "FCMC": 56,
+                "HUMC": 67,
+                "KDHCD": 13,
+                "OVMC": 73,
+                "PHHS": 39,
+                "RCRMC": 36,
+                "SJGH": 18,
+                "UNMH": 11
+            }
+        ]
+    },
+    {
+        "id": "sp423",
+        "group": [
+            {
+                "CCRMC": 3452,
+                "CHAM": 232,
+                "CVMC": 225,
+                "FCHP": 38,
+                "FCMC": 985,
+                "FVHS": 156,
+                "HUMC": 1968,
+                "KDHCD": 356,
+                "LACUSC": 37,
+                "OVMC": 1215,
+                "PHHS": 995,
+                "RCRMC": 1258,
+                "Rancho": 423,
+                "SJGH": 436,
+                "SVDH": 90,
+                "UNMH": 1168
+            }
+        ]
+    },
+    {
+        "id": "sp427",
+        "group": [
+            {
+                "CCRMC": 2552,
+                "CHAM": 130,
+                "CVMC": 94,
+                "FCHP": 25,
+                "FCMC": 624,
+                "FVHS": 80,
+                "HUMC": 2244,
+                "KDHCD": 217,
+                "LACUSC": 126,
+                "OVMC": 891,
+                "PHHS": 718,
+                "RCRMC": 864,
+                "Rancho": 275,
+                "SJGH": 386,
+                "SVDH": 54,
+                "UNMH": 1024
+            }
+        ]
+    },
+    {
+        "id": "sp428",
+        "group": [
+            {
+                "CCRMC": 163,
+                "CVMC": 3,
+                "FCMC": 47,
+                "HUMC": 78,
+                "KDHCD": 9,
+                "OVMC": 124,
+                "PHHS": 103,
+                "RCRMC": 92,
+                "SJGH": 26,
+                "UNMH": 56
+            }
+        ]
+    },
+    {
+        "id": "sp429",
+        "group": [
+            {
+                "CCRMC": 1920,
+                "CVMC": 61,
+                "FCHP": 31,
+                "FCMC": 165,
+                "FVHS": 24,
+                "HUMC": 888,
+                "KDHCD": 114,
+                "LACUSC": 152,
+                "OVMC": 700,
+                "PHHS": 223,
+                "RCRMC": 1100,
+                "Rancho": 46,
+                "SJGH": 24,
+                "SVDH": 97,
+                "UNMH": 632
+            }
+        ]
+    },
+    {
+        "id": "sp430",
+        "group": [
+            {
+                "CCRMC": 587,
+                "FCMC": 81,
+                "FVHS": 14,
+                "HUMC": 303,
+                "KDHCD": 9,
+                "LACUSC": 10,
+                "OVMC": 341,
+                "PHHS": 129,
+                "RCRMC": 402,
+                "Rancho": 45,
+                "SJGH": 5,
+                "SVDH": 11,
+                "UNMH": 386
+            }
+        ]
+    },
+    {
+        "id": "sp434",
+        "group": [
+            {
+                "CCRMC": 31,
+                "FCMC": 34,
+                "KDHCD": 12,
+                "OVMC": 10,
+                "PHHS": 14,
+                "RCRMC": 37
+            }
+        ]
+    },
+    {
+        "id": "sp435",
+        "group": [
+            {
+                "CCRMC": 127,
+                "FCMC": 51,
+                "HUMC": 52,
+                "OVMC": 102,
+                "PHHS": 4,
+                "RCRMC": 107,
+                "Rancho": 12,
+                "SJGH": 4,
+                "UNMH": 90
+            }
+        ]
+    },
+    {
+        "id": "sp436",
+        "group": [
+            {
+                "CCRMC": 969,
+                "CHAM": 140,
+                "CVMC": 3,
+                "FCHP": 18,
+                "FCMC": 120,
+                "HUMC": 288,
+                "KDHCD": 69,
+                "LACUSC": 81,
+                "OVMC": 230,
+                "PHHS": 613,
+                "RCRMC": 362,
+                "Rancho": 21,
+                "SJGH": 92,
+                "SVDH": 7,
+                "UNMH": 285
+            }
+        ]
+    },
+    {
+        "id": "sp439",
+        "group": [
+            {
+                "CCRMC": 1452,
+                "CHAM": 58,
+                "CVMC": 90,
+                "FCHP": 20,
+                "FCMC": 580,
+                "FVHS": 49,
+                "HUMC": 1119,
+                "KDHCD": 170,
+                "LACUSC": 17,
+                "OVMC": 931,
+                "PHHS": 631,
+                "RCRMC": 944,
+                "Rancho": 338,
+                "SJGH": 100,
+                "SVDH": 150,
+                "UNMH": 1035
+            }
+        ]
+    },
+    {
+        "id": "sp44",
+        "group": [
+            {
+                "CCRMC": 2186,
+                "CHAM": 101,
+                "CVMC": 42,
+                "FCHP": 47,
+                "FCMC": 581,
+                "FVHS": 76,
+                "HUMC": 1344,
+                "KDHCD": 62,
+                "LACUSC": 123,
+                "OVMC": 735,
+                "PHHS": 541,
+                "RCRMC": 747,
+                "Rancho": 151,
+                "SJGH": 205,
+                "SVDH": 79,
+                "UNMH": 628
+            }
+        ]
+    },
+    {
+        "id": "sp440",
+        "group": [
+            {
+                "CCRMC": 2199,
+                "CHAM": 2,
+                "CVMC": 96,
+                "FCHP": 14,
+                "FCMC": 567,
+                "FVHS": 10,
+                "HUMC": 1061,
+                "KDHCD": 66,
+                "LACUSC": 4,
+                "NATV": 5,
+                "OVMC": 905,
+                "PHHS": 769,
+                "RCRMC": 1092,
+                "Rancho": 157,
+                "SJGH": 52,
+                "SVDH": 12,
+                "UNMH": 1174
+            }
+        ]
+    },
+    {
+        "id": "sp441",
+        "group": [
+            {
+                "CCRMC": 242,
+                "FCHP": 11,
+                "FCMC": 59,
+                "HUMC": 199,
+                "OVMC": 51,
+                "PHHS": 27,
+                "RCRMC": 116,
+                "Rancho": 15,
+                "SJGH": 3,
+                "SVDH": 2,
+                "UNMH": 124
+            }
+        ]
+    },
+    {
+        "id": "sp444",
+        "group": [
+            {
+                "CCRMC": 61,
+                "HUMC": 36,
+                "OVMC": 41,
+                "PHHS": 17,
+                "RCRMC": 20
+            }
+        ]
+    },
+    {
+        "id": "sp447",
+        "group": [
+            {
+                "CCRMC": 302,
+                "FCMC": 34,
+                "HUMC": 264,
+                "OVMC": 80,
+                "PHHS": 3,
+                "RCRMC": 75,
+                "Rancho": 58,
+                "SJGH": 2,
+                "UNMH": 39
+            }
+        ]
+    },
+    {
+        "id": "sp448",
+        "group": [
+            {
+                "CCRMC": 381,
+                "CHAM": 11,
+                "FCHP": 4,
+                "FCMC": 52,
+                "FVHS": 88,
+                "HUMC": 376,
+                "KDHCD": 34,
+                "OVMC": 238,
+                "PHHS": 129,
+                "RCRMC": 235,
+                "Rancho": 47,
+                "SJGH": 28,
+                "SVDH": 10,
+                "UNMH": 371
+            }
+        ]
+    },
+    {
+        "id": "sp45",
+        "group": [
+            {
+                "CCRMC": 2769,
+                "CHAM": 271,
+                "CVMC": 113,
+                "FCHP": 21,
+                "FCMC": 601,
+                "FVHS": 492,
+                "HUMC": 1270,
+                "KDHCD": 268,
+                "LACUSC": 45,
+                "NATV": 16,
+                "OVMC": 631,
+                "PHHS": 2102,
+                "RCRMC": 972,
+                "Rancho": 171,
+                "SJGH": 274,
+                "SVDH": 71,
+                "UNMH": 751
+            }
+        ]
+    },
+    {
+        "id": "sp450",
+        "group": [
+            {
+                "CCRMC": 1130,
+                "CHAM": 4,
+                "CVMC": 4,
+                "FCHP": 34,
+                "FCMC": 310,
+                "FVHS": 51,
+                "HUMC": 716,
+                "KDHCD": 71,
+                "LACUSC": 12,
+                "OVMC": 628,
+                "PHHS": 353,
+                "RCRMC": 717,
+                "Rancho": 155,
+                "SJGH": 46,
+                "SVDH": 26,
+                "UNMH": 480
+            }
+        ]
+    },
+    {
+        "id": "sp451",
+        "group": [
+            {
+                "CCRMC": 1261,
+                "CHAM": 87,
+                "CVMC": 15,
+                "FCHP": 51,
+                "FCMC": 404,
+                "FVHS": 72,
+                "HUMC": 895,
+                "KDHCD": 40,
+                "LACUSC": 3,
+                "NATV": 19,
+                "OVMC": 519,
+                "PHHS": 340,
+                "RCRMC": 583,
+                "Rancho": 59,
+                "SJGH": 122,
+                "SVDH": 87,
+                "UNMH": 804
+            }
+        ]
+    },
+    {
+        "id": "sp452",
+        "group": [
+            {
+                "CCRMC": 397,
+                "CHAM": 2,
+                "CVMC": 43,
+                "FCHP": 60,
+                "FCMC": 148,
+                "HUMC": 381,
+                "KDHCD": 147,
+                "OVMC": 328,
+                "PHHS": 189,
+                "RCRMC": 276,
+                "Rancho": 60,
+                "SJGH": 33,
+                "SVDH": 63,
+                "UNMH": 600
+            }
+        ]
+    },
+    {
+        "id": "sp454",
+        "group": [
+            {
+                "CCRMC": 459,
+                "CVMC": 16,
+                "FCMC": 79,
+                "HUMC": 302,
+                "KDHCD": 19,
+                "OVMC": 72,
+                "PHHS": 34,
+                "RCRMC": 236,
+                "Rancho": 29,
+                "SJGH": 6,
+                "SVDH": 7,
+                "UNMH": 213
+            }
+        ]
+    },
+    {
+        "id": "sp456",
+        "group": [
+            {
+                "CCRMC": 106,
+                "CVMC": 9,
+                "FCMC": 17,
+                "HUMC": 53,
+                "OVMC": 80,
+                "RCRMC": 94,
+                "SJGH": 8,
+                "UNMH": 9
+            }
+        ]
+    },
+    {
+        "id": "sp457",
+        "group": [
+            {
+                "CCRMC": 42,
+                "CVMC": 2,
+                "FCMC": 5,
+                "HUMC": 22,
+                "OVMC": 2,
+                "PHHS": 12,
+                "RCRMC": 16,
+                "UNMH": 11
+            }
+        ]
+    },
+    {
+        "id": "sp459",
+        "group": [
+            {
+                "CCRMC": 1178,
+                "CHAM": 17,
+                "CVMC": 55,
+                "FCHP": 148,
+                "FCMC": 442,
+                "FVHS": 44,
+                "HUMC": 1217,
+                "KDHCD": 161,
+                "LACUSC": 14,
+                "OVMC": 882,
+                "PHHS": 262,
+                "RCRMC": 647,
+                "Rancho": 79,
+                "SJGH": 50,
+                "SVDH": 22,
+                "UNMH": 586
+            }
+        ]
+    },
+    {
+        "id": "sp46",
+        "group": [
+            {
+                "CCRMC": 851,
+                "CHAM": 32,
+                "CVMC": 9,
+                "FCHP": 44,
+                "FCMC": 80,
+                "FVHS": 78,
+                "HUMC": 191,
+                "KDHCD": 65,
+                "LACUSC": 113,
+                "OVMC": 138,
+                "PHHS": 333,
+                "RCRMC": 450,
+                "Rancho": 106,
+                "SJGH": 173,
+                "UNMH": 771
+            }
+        ]
+    },
+    {
+        "id": "sp460",
+        "group": [
+            {
+                "CCRMC": 528,
+                "CVMC": 38,
+                "FCHP": 9,
+                "FCMC": 293,
+                "FVHS": 55,
+                "HUMC": 517,
+                "KDHCD": 47,
+                "LACUSC": 9,
+                "OVMC": 518,
+                "PHHS": 9,
+                "RCRMC": 482,
+                "Rancho": 49,
+                "SJGH": 35,
+                "SVDH": 20,
+                "UNMH": 637
+            }
+        ]
+    },
+    {
+        "id": "sp461",
+        "group": [
+            {
+                "CCRMC": 54,
+                "FCMC": 25,
+                "HUMC": 14,
+                "RCRMC": 64,
+                "SJGH": 5
+            }
+        ]
+    },
+    {
+        "id": "sp463",
+        "group": [
+            {
+                "CCRMC": 714,
+                "CVMC": 19,
+                "FCHP": 6,
+                "FCMC": 368,
+                "HUMC": 646,
+                "KDHCD": 90,
+                "OVMC": 246,
+                "PHHS": 80,
+                "RCRMC": 422,
+                "Rancho": 157,
+                "SJGH": 50,
+                "UNMH": 256
+            }
+        ]
+    },
+    {
+        "id": "sp464",
+        "group": [
+            {
+                "CCHMC": 145,
+                "CCRMC": 2280,
+                "CHAM": 2,
+                "CVMC": 125,
+                "FCHP": 9,
+                "FCMC": 257,
+                "FVHS": 8,
+                "HCLite": 9,
+                "HUMC": 1198,
+                "KDHCD": 102,
+                "LACUSC": 16,
+                "OVMC": 1139,
+                "PHHS": 317,
+                "RCRMC": 673,
+                "Rancho": 96,
+                "SJGH": 160,
+                "SVDH": 22,
+                "UNMH": 1361
+            }
+        ]
+    },
+    {
+        "id": "sp465",
+        "group": [
+            {
+                "CCRMC": 4,
+                "HUMC": 9,
+                "SJGH": 6
+            }
+        ]
+    },
+    {
+        "id": "sp466",
+        "group": [
+            {
+                "CCRMC": 452,
+                "CHAM": 128,
+                "FCMC": 115,
+                "HUMC": 225,
+                "KDHCD": 22,
+                "OVMC": 154,
+                "PHHS": 50,
+                "RCRMC": 187,
+                "Rancho": 43,
+                "SJGH": 18,
+                "UNMH": 97
+            }
+        ]
+    },
+    {
+        "id": "sp467",
+        "group": [
+            {
+                "CCRMC": 685,
+                "CHAM": 9,
+                "CVMC": 41,
+                "FCHP": 64,
+                "FCMC": 366,
+                "FVHS": 1,
+                "HUMC": 905,
+                "KDHCD": 69,
+                "OVMC": 608,
+                "PAA": 2,
+                "PHHS": 303,
+                "RCRMC": 514,
+                "Rancho": 28,
+                "SJGH": 44,
+                "SVDH": 22,
+                "UNMH": 176
+            }
+        ]
+    },
+    {
+        "id": "sp47",
+        "group": [
+            {
+                "CCRMC": 731,
+                "CHAM": 14,
+                "CVMC": 28,
+                "FCHP": 2,
+                "FCMC": 66,
+                "FVHS": 75,
+                "HUMC": 251,
+                "KDHCD": 33,
+                "LACUSC": 224,
+                "OVMC": 51,
+                "PHHS": 210,
+                "RCRMC": 313,
+                "Rancho": 83,
+                "SJGH": 10,
+                "SVDH": 2,
+                "UNMH": 83
+            }
+        ]
+    },
+    {
+        "id": "sp472",
+        "group": [
+            {
+                "CCRMC": 97,
+                "FCMC": 34,
+                "HUMC": 38,
+                "KDHCD": 36,
+                "OVMC": 4,
+                "PHHS": 33,
+                "RCRMC": 83
+            }
+        ]
+    },
+    {
+        "id": "sp473",
+        "group": [
+            {
+                "CCRMC": 2124,
+                "CHAM": 28,
+                "CVMC": 140,
+                "FCHP": 80,
+                "FCMC": 830,
+                "FVHS": 76,
+                "HUMC": 2113,
+                "KDHCD": 126,
+                "OVMC": 1206,
+                "PHHS": 661,
+                "RCRMC": 1504,
+                "Rancho": 332,
+                "SJGH": 95,
+                "SVDH": 41,
+                "UNMH": 1335
+            }
+        ]
+    },
+    {
+        "id": "sp474",
+        "group": [
+            {
+                "CCRMC": 313,
+                "CHAM": 16,
+                "CVMC": 6,
+                "FCHP": 25,
+                "FCMC": 41,
+                "FVHS": 8,
+                "HUMC": 443,
+                "LACUSC": 5,
+                "OVMC": 211,
+                "PHHS": 12,
+                "RCRMC": 332,
+                "Rancho": 11,
+                "SJGH": 39,
+                "UNMH": 222
+            }
+        ]
+    },
+    {
+        "id": "sp475",
+        "group": [
+            {
+                "CCRMC": 121,
+                "CVMC": 11,
+                "FCHP": 4,
+                "FCMC": 25,
+                "HUMC": 212,
+                "KDHCD": 12,
+                "LACUSC": 34,
+                "OVMC": 220,
+                "PHHS": 101,
+                "RCRMC": 125,
+                "Rancho": 58,
+                "SJGH": 37,
+                "UNMH": 136
+            }
+        ]
+    },
+    {
+        "id": "sp477",
+        "group": [
+            {
+                "CCRMC": 222,
+                "CHAM": 2,
+                "CVMC": 3,
+                "FCMC": 43,
+                "HUMC": 35,
+                "KDHCD": 8,
+                "OVMC": 68,
+                "PHHS": 64,
+                "RCRMC": 6,
+                "Rancho": 36,
+                "SJGH": 10,
+                "SVDH": 10,
+                "UNMH": 21
+            }
+        ]
+    },
+    {
+        "id": "sp478",
+        "group": [
+            {
+                "CCRMC": 1102,
+                "CHAM": 69,
+                "CVMC": 3,
+                "FCHP": 7,
+                "FCMC": 417,
+                "FVHS": 20,
+                "HCLite": 41,
+                "HUMC": 1220,
+                "KDHCD": 62,
+                "LACUSC": 20,
+                "NATV": 15,
+                "OVMC": 630,
+                "PHHS": 335,
+                "RCRMC": 745,
+                "Rancho": 179,
+                "SJGH": 41,
+                "SVDH": 34,
+                "UNMH": 707
+            }
+        ]
+    },
+    {
+        "id": "sp48",
+        "group": [
+            {
+                "CCRMC": 12,
+                "FCMC": 6,
+                "HUMC": 57,
+                "OVMC": 30,
+                "RCRMC": 15,
+                "SVDH": 9,
+                "UNMH": 56
+            }
+        ]
+    },
+    {
+        "id": "sp480",
+        "group": [
+            {
+                "CCRMC": 2579,
+                "CHAM": 57,
+                "CVMC": 128,
+                "FCHP": 14,
+                "FCMC": 908,
+                "FVHS": 87,
+                "HUMC": 1249,
+                "KDHCD": 158,
+                "LACUSC": 16,
+                "NATV": 10,
+                "OVMC": 1048,
+                "PHHS": 775,
+                "RCRMC": 1323,
+                "Rancho": 329,
+                "SJGH": 383,
+                "SVDH": 65,
+                "UNMH": 900
+            }
+        ]
+    },
+    {
+        "id": "sp481",
+        "group": [
+            {
+                "CCRMC": 880,
+                "CHAM": 126,
+                "FCHP": 53,
+                "FCMC": 223,
+                "HUMC": 917,
+                "KDHCD": 47,
+                "LACUSC": 72,
+                "OVMC": 196,
+                "PHHS": 625,
+                "RCRMC": 459,
+                "Rancho": 32,
+                "SJGH": 41,
+                "SVDH": 73,
+                "UNMH": 550
+            }
+        ]
+    },
+    {
+        "id": "sp482",
+        "group": [
+            {
+                "CCRMC": 779,
+                "CHAM": 3,
+                "CVMC": 20,
+                "FCHP": 28,
+                "FCMC": 199,
+                "HUMC": 671,
+                "KDHCD": 48,
+                "OVMC": 421,
+                "PHHS": 85,
+                "RCRMC": 419,
+                "Rancho": 125,
+                "SJGH": 73,
+                "SVDH": 19,
+                "UNMH": 169
+            }
+        ]
+    },
+    {
+        "id": "sp483",
+        "group": [
+            {
+                "CCRMC": 282,
+                "CHAM": 4,
+                "CVMC": 13,
+                "FCHP": 38,
+                "FCMC": 61,
+                "HUMC": 267,
+                "LACUSC": 3,
+                "OVMC": 149,
+                "PHHS": 57,
+                "RCRMC": 219,
+                "Rancho": 27,
+                "SVDH": 7,
+                "UNMH": 253
+            }
+        ]
+    },
+    {
+        "id": "sp484",
+        "group": [
+            {
+                "CCRMC": 242,
+                "CHAM": 5,
+                "CVMC": 3,
+                "FCMC": 85,
+                "HUMC": 29,
+                "KDHCD": 7,
+                "OVMC": 54,
+                "PHHS": 108,
+                "RCRMC": 69,
+                "UNMH": 11
+            }
+        ]
+    },
+    {
+        "id": "sp485",
+        "group": [
+            {
+                "CCRMC": 942,
+                "CHAM": 73,
+                "CVMC": 32,
+                "FCMC": 203,
+                "HUMC": 639,
+                "KDHCD": 42,
+                "OVMC": 304,
+                "PHHS": 176,
+                "RCRMC": 519,
+                "Rancho": 249,
+                "SJGH": 20,
+                "SVDH": 11,
+                "UNMH": 227
+            }
+        ]
+    },
+    {
+        "id": "sp486",
+        "group": [
+            {
+                "CCRMC": 212,
+                "CHAM": 4,
+                "CVMC": 5,
+                "HUMC": 131,
+                "KDHCD": 2,
+                "LACUSC": 20,
+                "OVMC": 88,
+                "PHHS": 27,
+                "RCRMC": 111,
+                "UNMH": 39
+            }
+        ]
+    },
+    {
+        "id": "sp488",
+        "group": [
+            {
+                "CCRMC": 149,
+                "CHAM": 102,
+                "FCMC": 7,
+                "FVHS": 6,
+                "HUMC": 167,
+                "OVMC": 98,
+                "PHHS": 79,
+                "RCRMC": 198,
+                "Rancho": 6,
+                "SVDH": 7,
+                "UNMH": 428
+            }
+        ]
+    },
+    {
+        "id": "sp51",
+        "group": [
+            {
+                "CCRMC": 492,
+                "CHAM": 48,
+                "CVMC": 51,
+                "FCMC": 125,
+                "FVHS": 34,
+                "HUMC": 368,
+                "LACUSC": 18,
+                "OVMC": 105,
+                "PHHS": 378,
+                "RCRMC": 206,
+                "Rancho": 20,
+                "SJGH": 58,
+                "SVDH": 14,
+                "UNMH": 81
+            }
+        ]
+    },
+    {
+        "id": "sp53",
+        "group": [
+            {
+                "CCRMC": 154,
+                "FCMC": 49,
+                "HUMC": 42,
+                "KDHCD": 5,
+                "OVMC": 36,
+                "PHHS": 63,
+                "RCRMC": 73,
+                "Rancho": 5,
+                "UNMH": 105
+            }
+        ]
+    },
+    {
+        "id": "sp55",
+        "group": [
+            {
+                "CCRMC": 359,
+                "CHAM": 44,
+                "CVMC": 10,
+                "FCHP": 9,
+                "FCMC": 81,
+                "HUMC": 298,
+                "KDHCD": 64,
+                "OVMC": 131,
+                "PHHS": 103,
+                "RCRMC": 242,
+                "Rancho": 26,
+                "SJGH": 5,
+                "SVDH": 4,
+                "UNMH": 174
+            }
+        ]
+    },
+    {
+        "id": "sp57",
+        "group": [
+            {
+                "CCRMC": 2003,
+                "CHAM": 121,
+                "CVMC": 32,
+                "FCHP": 50,
+                "FCMC": 281,
+                "FVHS": 34,
+                "HCLite": 27,
+                "HUMC": 1236,
+                "KDHCD": 137,
+                "LACUSC": 14,
+                "OVMC": 753,
+                "PHHS": 782,
+                "RCRMC": 831,
+                "Rancho": 185,
+                "SJGH": 157,
+                "SVDH": 55,
+                "UNMH": 664
+            }
+        ]
+    },
+    {
+        "id": "sp60",
+        "group": [
+            {
+                "CCRMC": 1509,
+                "CHAM": 8,
+                "CVMC": 51,
+                "FCHP": 9,
+                "FCMC": 295,
+                "FVHS": 84,
+                "HUMC": 716,
+                "KDHCD": 52,
+                "LACUSC": 33,
+                "NATV": 40,
+                "OVMC": 476,
+                "PHHS": 555,
+                "RCRMC": 797,
+                "Rancho": 260,
+                "SJGH": 90,
+                "SVDH": 62,
+                "UNMH": 452
+            }
+        ]
+    },
+    {
+        "id": "sp62",
+        "group": [
+            {
+                "CCRMC": 1075,
+                "CHAM": 15,
+                "CVMC": 75,
+                "FCMC": 238,
+                "HUMC": 824,
+                "KDHCD": 35,
+                "LACUSC": 41,
+                "OVMC": 411,
+                "PHHS": 142,
+                "RCRMC": 632,
+                "Rancho": 63,
+                "SJGH": 23,
+                "UNMH": 399
+            }
+        ]
+    },
+    {
+        "id": "sp63",
+        "group": [
+            {
+                "CCRMC": 105,
+                "FCHP": 13,
+                "FCMC": 47,
+                "FVHS": 29,
+                "HUMC": 223,
+                "OVMC": 198,
+                "PHHS": 116,
+                "RCRMC": 66,
+                "Rancho": 64,
+                "SJGH": 15,
+                "UNMH": 255
+            }
+        ]
+    },
+    {
+        "id": "sp64",
+        "group": [
+            {
+                "CCRMC": 976,
+                "CHAM": 54,
+                "CVMC": 24,
+                "FCHP": 7,
+                "FCMC": 167,
+                "FVHS": 29,
+                "HUMC": 402,
+                "KDHCD": 64,
+                "LACUSC": 51,
+                "OVMC": 365,
+                "PHHS": 310,
+                "RCRMC": 614,
+                "Rancho": 35,
+                "SJGH": 15,
+                "SVDH": 1,
+                "UNMH": 389
+            }
+        ]
+    },
+    {
+        "id": "sp66",
+        "group": [
+            {
+                "CCRMC": 1187,
+                "CHAM": 52,
+                "CVMC": 75,
+                "FCHP": 3,
+                "FCMC": 252,
+                "FVHS": 310,
+                "HUMC": 220,
+                "KDHCD": 77,
+                "LACUSC": 149,
+                "OVMC": 257,
+                "PHHS": 784,
+                "RCRMC": 480,
+                "Rancho": 10,
+                "SJGH": 36,
+                "SVDH": 20,
+                "UNMH": 551
+            }
+        ]
+    },
+    {
+        "id": "sp67",
+        "group": [
+            {
+                "CCRMC": 1871,
+                "CHAM": 9413,
+                "FCMC": 100,
+                "FVHS": 618,
+                "HUMC": 230,
+                "KDHCD": 102,
+                "OVMC": 46,
+                "PHHS": 693,
+                "RCRMC": 615,
+                "Rancho": 187,
+                "SJGH": 342,
+                "UNMH": 184
+            }
+        ]
+    },
+    {
+        "id": "sp69",
+        "group": [
+            {
+                "CCRMC": 849,
+                "CHAM": 8,
+                "CVMC": 20,
+                "FCMC": 319,
+                "FVHS": 48,
+                "HUMC": 675,
+                "KDHCD": 109,
+                "LACUSC": 1,
+                "OVMC": 208,
+                "PHHS": 249,
+                "RCRMC": 248,
+                "Rancho": 69,
+                "SJGH": 29,
+                "SVDH": 17,
+                "UNMH": 318
+            }
+        ]
+    },
+    {
+        "id": "sp72",
+        "group": [
+            {
+                "CCRMC": 517,
+                "CHAM": 17,
+                "FCHP": 12,
+                "FCMC": 75,
+                "HUMC": 275,
+                "KDHCD": 4,
+                "OVMC": 139,
+                "PHHS": 116,
+                "RCRMC": 125,
+                "Rancho": 16,
+                "SJGH": 5,
+                "SVDH": 17,
+                "UNMH": 95
+            }
+        ]
+    },
+    {
+        "id": "sp73",
+        "group": [
+            {
+                "CCRMC": 639,
+                "CVMC": 3,
+                "FCHP": 8,
+                "FCMC": 161,
+                "HUMC": 510,
+                "KDHCD": 164,
+                "LACUSC": 50,
+                "OVMC": 162,
+                "PHHS": 208,
+                "RCRMC": 170,
+                "Rancho": 57,
+                "SJGH": 38,
+                "SVDH": 5,
+                "UNMH": 152
+            }
+        ]
+    },
+    {
+        "id": "sp74",
+        "group": [
+            {
+                "CCRMC": 441,
+                "CHAM": 30,
+                "CVMC": 10,
+                "FCMC": 127,
+                "FVHS": 2,
+                "HUMC": 253,
+                "KDHCD": 86,
+                "OVMC": 176,
+                "PHHS": 220,
+                "RCRMC": 343,
+                "Rancho": 47,
+                "SJGH": 25,
+                "UNMH": 155
+            }
+        ]
+    },
+    {
+        "id": "sp77",
+        "group": [
+            {
+                "CCRMC": 355,
+                "CHAM": 9,
+                "CVMC": 4,
+                "FCHP": 3,
+                "FCMC": 101,
+                "HUMC": 288,
+                "KDHCD": 2,
+                "OVMC": 39,
+                "PHHS": 88,
+                "RCRMC": 112,
+                "Rancho": 64,
+                "SJGH": 46,
+                "SVDH": 4,
+                "UNMH": 65
+            }
+        ]
+    },
+    {
+        "id": "sp78",
+        "group": [
+            {
+                "OVMC": 16,
+                "RCRMC": 18,
+                "UNMH": 15
+            }
+        ]
+    },
+    {
+        "id": "sp79",
+        "group": [
+            {
+                "CCRMC": 103,
+                "CHAM": 7,
+                "CVMC": 5,
+                "FCMC": 48,
+                "FVHS": 61,
+                "HUMC": 79,
+                "KDHCD": 8,
+                "OVMC": 19,
+                "PHHS": 43,
+                "RCRMC": 37,
+                "SJGH": 20,
+                "UNMH": 56
+            }
+        ]
+    },
+    {
+        "id": "sp81",
+        "group": [
+            {
+                "CVMC": 7,
+                "Rancho": 12
+            }
+        ]
+    },
+    {
+        "id": "sp83",
+        "group": [
+            {
+                "CCRMC": 2603,
+                "CHAM": 383,
+                "CVMC": 13,
+                "FCHP": 1,
+                "FCMC": 243,
+                "FVHS": 213,
+                "HUMC": 614,
+                "KDHCD": 141,
+                "LACUSC": 72,
+                "OVMC": 218,
+                "PHHS": 1807,
+                "RCRMC": 541,
+                "Rancho": 173,
+                "SJGH": 90,
+                "SVDH": 68,
+                "UNMH": 450
+            }
+        ]
+    },
+    {
+        "id": "sp86",
+        "group": [
+            {
+                "CCRMC": 4900,
+                "CHAM": 322,
+                "CVMC": 149,
+                "FCHP": 84,
+                "FCMC": 1346,
+                "FVHS": 40,
+                "HUMC": 2568,
+                "KDHCD": 485,
+                "LACUSC": 132,
+                "NATV": 15,
+                "OVMC": 1779,
+                "PHHS": 1732,
+                "RCRMC": 1826,
+                "Rancho": 416,
+                "SJGH": 191,
+                "SVDH": 140,
+                "UNMH": 1678
+            }
+        ]
+    },
+    {
+        "id": "sp87",
+        "group": [
+            {
+                "CCRMC": 1064,
+                "CHAM": 21,
+                "CVMC": 12,
+                "FCMC": 110,
+                "FVHS": 58,
+                "HUMC": 672,
+                "KDHCD": 62,
+                "LACUSC": 10,
+                "OVMC": 304,
+                "PHHS": 251,
+                "RCRMC": 474,
+                "Rancho": 162,
+                "SJGH": 59,
+                "SVDH": 34,
+                "UNMH": 529
+            }
+        ]
+    },
+    {
+        "id": "sp89",
+        "group": [
+            {
+                "CCRMC": 200,
+                "CHAM": 42,
+                "CVMC": 27,
+                "FCMC": 105,
+                "FVHS": 120,
+                "HUMC": 215,
+                "KDHCD": 7,
+                "LACUSC": 24,
+                "OVMC": 207,
+                "PHHS": 150,
+                "RCRMC": 253,
+                "Rancho": 67,
+                "SJGH": 21,
+                "SVDH": 25,
+                "UNMH": 165
+            }
+        ]
+    },
+    {
+        "id": "sp92",
+        "group": [
+            {
+                "CCRMC": 22,
+                "HUMC": 3,
+                "KDHCD": 5,
+                "OVMC": 22,
+                "RCRMC": 18
+            }
+        ]
+    },
+    {
+        "id": "sp94",
+        "group": [
+            {
+                "CCRMC": 119,
+                "FCHP": 48,
+                "FCMC": 53,
+                "HUMC": 69,
+                "KDHCD": 2,
+                "OVMC": 14,
+                "PHHS": 64,
+                "RCRMC": 66,
+                "Rancho": 52,
+                "UNMH": 103
+            }
+        ]
+    },
+    {
+        "id": "sp96",
+        "group": [
+            {
+                "CCRMC": 1062,
+                "CHAM": 40,
+                "CVMC": 15,
+                "FCHP": 16,
+                "FCMC": 237,
+                "FVHS": 22,
+                "HUMC": 724,
+                "KDHCD": 151,
+                "LACUSC": 2,
+                "OVMC": 400,
+                "PHHS": 380,
+                "RCRMC": 601,
+                "Rancho": 54,
+                "SJGH": 80,
+                "SVDH": 45,
+                "UNMH": 775
+            }
+        ]
+    },
+    {
+        "id": "sp98",
+        "group": [
+            {
+                "CCRMC": 426,
+                "CHAM": 1,
+                "CVMC": 6,
+                "FCMC": 33,
+                "FVHS": 38,
+                "HUMC": 142,
+                "KDHCD": 11,
+                "OVMC": 50,
+                "PHHS": 109,
+                "RCRMC": 111,
+                "Rancho": 3,
+                "SJGH": 4,
+                "UNMH": 153
+            }
+        ]
+    },
+    {
+        "id": "sp99",
+        "group": [
+            {
+                "CCRMC": 2793,
+                "CHAM": 222,
+                "CVMC": 66,
+                "FCHP": 46,
+                "FCMC": 275,
+                "FVHS": 238,
+                "HCLite": 19,
+                "HUMC": 647,
+                "KDHCD": 73,
+                "LACUSC": 143,
+                "NATV": 25,
+                "OVMC": 952,
+                "PHHS": 1298,
+                "RCRMC": 1517,
+                "Rancho": 191,
+                "SJGH": 154,
+                "SVDH": 46,
+                "UNMH": 906
+            }
+        ]
+    }
+]
